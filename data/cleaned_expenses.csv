@@ -1,0 +1,1001 @@
+Date,Category,Amount,Type,Payment_Method,Description,Month,Year,Weekday,Month_Year
+2025-01-01,Education,9656,Expense,Cash,Transaction 1,1,2025,Wednesday,2025-01
+2025-01-02,Entertainment,8420,Expense,UPI,Transaction 2,1,2025,Thursday,2025-01
+2025-01-03,Healthcare,9306,Expense,Credit Card,Transaction 3,1,2025,Friday,2025-01
+2025-01-04,Shopping,6912,Expense,Cash,Transaction 4,1,2025,Saturday,2025-01
+2025-01-05,Salary,7619,Income,Cash,Transaction 5,1,2025,Sunday,2025-01
+2025-01-06,Salary,4712,Income,Cash,Transaction 6,1,2025,Monday,2025-01
+2025-01-07,Salary,9810,Income,Debit Card,Transaction 7,1,2025,Tuesday,2025-01
+2025-01-08,Education,1298,Expense,UPI,Transaction 8,1,2025,Wednesday,2025-01
+2025-01-09,Bills,5338,Expense,UPI,Transaction 9,1,2025,Thursday,2025-01
+2025-01-10,Food,6189,Expense,Credit Card,Transaction 10,1,2025,Friday,2025-01
+2025-01-11,Salary,6357,Income,UPI,Transaction 11,1,2025,Saturday,2025-01
+2025-01-12,Education,7805,Expense,UPI,Transaction 12,1,2025,Sunday,2025-01
+2025-01-13,Bills,3819,Expense,Cash,Transaction 13,1,2025,Monday,2025-01
+2025-01-14,Healthcare,402,Expense,Cash,Transaction 14,1,2025,Tuesday,2025-01
+2025-01-15,Salary,1086,Income,Debit Card,Transaction 15,1,2025,Wednesday,2025-01
+2025-01-16,Salary,4540,Income,Cash,Transaction 16,1,2025,Thursday,2025-01
+2025-01-17,Healthcare,5009,Expense,Cash,Transaction 17,1,2025,Friday,2025-01
+2025-01-18,Food,3172,Expense,Cash,Transaction 18,1,2025,Saturday,2025-01
+2025-01-19,Transport,3224,Expense,Cash,Transaction 19,1,2025,Sunday,2025-01
+2025-01-20,Food,9619,Expense,Debit Card,Transaction 20,1,2025,Monday,2025-01
+2025-01-21,Entertainment,8225,Expense,Cash,Transaction 21,1,2025,Tuesday,2025-01
+2025-01-22,Salary,3391,Income,Credit Card,Transaction 22,1,2025,Wednesday,2025-01
+2025-01-23,Education,4133,Expense,Credit Card,Transaction 23,1,2025,Thursday,2025-01
+2025-01-24,Shopping,5205,Expense,Credit Card,Transaction 24,1,2025,Friday,2025-01
+2025-01-25,Transport,803,Expense,Credit Card,Transaction 25,1,2025,Saturday,2025-01
+2025-01-26,Food,8233,Expense,Cash,Transaction 26,1,2025,Sunday,2025-01
+2025-01-27,Salary,674,Income,Credit Card,Transaction 27,1,2025,Monday,2025-01
+2025-01-28,Bills,5804,Expense,Cash,Transaction 28,1,2025,Tuesday,2025-01
+2025-01-29,Transport,7948,Expense,Debit Card,Transaction 29,1,2025,Wednesday,2025-01
+2025-01-30,Salary,5308,Income,Credit Card,Transaction 30,1,2025,Thursday,2025-01
+2025-01-31,Education,7024,Expense,UPI,Transaction 31,1,2025,Friday,2025-01
+2025-02-01,Salary,3928,Income,Credit Card,Transaction 32,2,2025,Saturday,2025-02
+2025-02-02,Salary,3330,Income,Credit Card,Transaction 33,2,2025,Sunday,2025-02
+2025-02-03,Transport,588,Expense,Cash,Transaction 34,2,2025,Monday,2025-02
+2025-02-04,Education,7214,Expense,Credit Card,Transaction 35,2,2025,Tuesday,2025-02
+2025-02-05,Food,9639,Expense,UPI,Transaction 36,2,2025,Wednesday,2025-02
+2025-02-06,Education,3273,Expense,Cash,Transaction 37,2,2025,Thursday,2025-02
+2025-02-07,Salary,1767,Income,Cash,Transaction 38,2,2025,Friday,2025-02
+2025-02-08,Transport,9929,Expense,Debit Card,Transaction 39,2,2025,Saturday,2025-02
+2025-02-09,Bills,4214,Expense,Debit Card,Transaction 40,2,2025,Sunday,2025-02
+2025-02-10,Salary,3653,Income,Credit Card,Transaction 41,2,2025,Monday,2025-02
+2025-02-11,Healthcare,7861,Expense,Debit Card,Transaction 42,2,2025,Tuesday,2025-02
+2025-02-12,Salary,1100,Income,Debit Card,Transaction 43,2,2025,Wednesday,2025-02
+2025-02-13,Transport,9142,Expense,Debit Card,Transaction 44,2,2025,Thursday,2025-02
+2025-02-14,Education,1488,Expense,Cash,Transaction 45,2,2025,Friday,2025-02
+2025-02-15,Healthcare,5550,Expense,Cash,Transaction 46,2,2025,Saturday,2025-02
+2025-02-16,Education,3812,Expense,Cash,Transaction 47,2,2025,Sunday,2025-02
+2025-02-17,Bills,1467,Expense,Debit Card,Transaction 48,2,2025,Monday,2025-02
+2025-02-18,Education,8289,Expense,Cash,Transaction 49,2,2025,Tuesday,2025-02
+2025-02-19,Salary,9113,Income,Debit Card,Transaction 50,2,2025,Wednesday,2025-02
+2025-02-20,Food,554,Expense,Cash,Transaction 51,2,2025,Thursday,2025-02
+2025-02-21,Shopping,9916,Expense,Cash,Transaction 52,2,2025,Friday,2025-02
+2025-02-22,Transport,2872,Expense,UPI,Transaction 53,2,2025,Saturday,2025-02
+2025-02-23,Shopping,3826,Expense,Credit Card,Transaction 54,2,2025,Sunday,2025-02
+2025-02-24,Education,7332,Expense,Debit Card,Transaction 55,2,2025,Monday,2025-02
+2025-02-25,Bills,4906,Expense,UPI,Transaction 56,2,2025,Tuesday,2025-02
+2025-02-26,Salary,2290,Income,Cash,Transaction 57,2,2025,Wednesday,2025-02
+2025-02-27,Salary,9208,Income,Debit Card,Transaction 58,2,2025,Thursday,2025-02
+2025-02-28,Salary,2975,Income,Cash,Transaction 59,2,2025,Friday,2025-02
+2025-03-01,Transport,5692,Expense,Credit Card,Transaction 60,3,2025,Saturday,2025-03
+2025-03-02,Education,1540,Expense,UPI,Transaction 61,3,2025,Sunday,2025-03
+2025-03-03,Healthcare,9027,Expense,Credit Card,Transaction 62,3,2025,Monday,2025-03
+2025-03-04,Entertainment,6159,Expense,UPI,Transaction 63,3,2025,Tuesday,2025-03
+2025-03-05,Education,7110,Expense,Cash,Transaction 64,3,2025,Wednesday,2025-03
+2025-03-06,Shopping,7217,Expense,Credit Card,Transaction 65,3,2025,Thursday,2025-03
+2025-03-07,Transport,9253,Expense,Credit Card,Transaction 66,3,2025,Friday,2025-03
+2025-03-08,Salary,3089,Income,Cash,Transaction 67,3,2025,Saturday,2025-03
+2025-03-09,Shopping,9318,Expense,Credit Card,Transaction 68,3,2025,Sunday,2025-03
+2025-03-10,Salary,6328,Income,Debit Card,Transaction 69,3,2025,Monday,2025-03
+2025-03-11,Transport,6571,Expense,UPI,Transaction 70,3,2025,Tuesday,2025-03
+2025-03-12,Education,2963,Expense,UPI,Transaction 71,3,2025,Wednesday,2025-03
+2025-03-13,Salary,1277,Income,UPI,Transaction 72,3,2025,Thursday,2025-03
+2025-03-14,Salary,4860,Income,Debit Card,Transaction 73,3,2025,Friday,2025-03
+2025-03-15,Food,111,Expense,UPI,Transaction 74,3,2025,Saturday,2025-03
+2025-03-16,Healthcare,5352,Expense,Cash,Transaction 75,3,2025,Sunday,2025-03
+2025-03-17,Education,4499,Expense,Credit Card,Transaction 76,3,2025,Monday,2025-03
+2025-03-18,Shopping,8334,Expense,Debit Card,Transaction 77,3,2025,Tuesday,2025-03
+2025-03-19,Salary,9235,Income,UPI,Transaction 78,3,2025,Wednesday,2025-03
+2025-03-20,Entertainment,5545,Expense,Cash,Transaction 79,3,2025,Thursday,2025-03
+2025-03-21,Salary,6670,Income,Credit Card,Transaction 80,3,2025,Friday,2025-03
+2025-03-22,Entertainment,9296,Expense,Credit Card,Transaction 81,3,2025,Saturday,2025-03
+2025-03-23,Bills,8312,Expense,Debit Card,Transaction 82,3,2025,Sunday,2025-03
+2025-03-24,Transport,506,Expense,Debit Card,Transaction 83,3,2025,Monday,2025-03
+2025-03-25,Salary,9306,Income,Debit Card,Transaction 84,3,2025,Tuesday,2025-03
+2025-03-26,Shopping,4531,Expense,Cash,Transaction 85,3,2025,Wednesday,2025-03
+2025-03-27,Bills,5343,Expense,Cash,Transaction 86,3,2025,Thursday,2025-03
+2025-03-28,Shopping,6642,Expense,Debit Card,Transaction 87,3,2025,Friday,2025-03
+2025-03-29,Transport,7036,Expense,UPI,Transaction 88,3,2025,Saturday,2025-03
+2025-03-30,Education,9006,Expense,Credit Card,Transaction 89,3,2025,Sunday,2025-03
+2025-03-31,Education,4246,Expense,Credit Card,Transaction 90,3,2025,Monday,2025-03
+2025-04-01,Salary,240,Income,Cash,Transaction 91,4,2025,Tuesday,2025-04
+2025-04-02,Entertainment,4982,Expense,Credit Card,Transaction 92,4,2025,Wednesday,2025-04
+2025-04-03,Education,6112,Expense,UPI,Transaction 93,4,2025,Thursday,2025-04
+2025-04-04,Education,1063,Expense,Credit Card,Transaction 94,4,2025,Friday,2025-04
+2025-04-05,Food,7251,Expense,Cash,Transaction 95,4,2025,Saturday,2025-04
+2025-04-06,Entertainment,8664,Expense,Cash,Transaction 96,4,2025,Sunday,2025-04
+2025-04-07,Bills,3710,Expense,UPI,Transaction 97,4,2025,Monday,2025-04
+2025-04-08,Healthcare,9984,Expense,UPI,Transaction 98,4,2025,Tuesday,2025-04
+2025-04-09,Salary,6994,Income,Credit Card,Transaction 99,4,2025,Wednesday,2025-04
+2025-04-10,Salary,7411,Income,Credit Card,Transaction 100,4,2025,Thursday,2025-04
+2025-04-11,Salary,205,Income,Cash,Transaction 101,4,2025,Friday,2025-04
+2025-04-12,Food,5639,Expense,UPI,Transaction 102,4,2025,Saturday,2025-04
+2025-04-13,Bills,9973,Expense,UPI,Transaction 103,4,2025,Sunday,2025-04
+2025-04-14,Transport,6887,Expense,UPI,Transaction 104,4,2025,Monday,2025-04
+2025-04-15,Food,2237,Expense,Credit Card,Transaction 105,4,2025,Tuesday,2025-04
+2025-04-16,Bills,4545,Expense,UPI,Transaction 106,4,2025,Wednesday,2025-04
+2025-04-17,Transport,3630,Expense,Cash,Transaction 107,4,2025,Thursday,2025-04
+2025-04-18,Entertainment,1386,Expense,Cash,Transaction 108,4,2025,Friday,2025-04
+2025-04-19,Healthcare,7152,Expense,Credit Card,Transaction 109,4,2025,Saturday,2025-04
+2025-04-20,Salary,3754,Income,Debit Card,Transaction 110,4,2025,Sunday,2025-04
+2025-04-21,Transport,7202,Expense,Credit Card,Transaction 111,4,2025,Monday,2025-04
+2025-04-22,Salary,2459,Income,Debit Card,Transaction 112,4,2025,Tuesday,2025-04
+2025-04-23,Education,8205,Expense,UPI,Transaction 113,4,2025,Wednesday,2025-04
+2025-04-24,Shopping,8736,Expense,Credit Card,Transaction 114,4,2025,Thursday,2025-04
+2025-04-25,Transport,6541,Expense,Cash,Transaction 115,4,2025,Friday,2025-04
+2025-04-26,Transport,5147,Expense,UPI,Transaction 116,4,2025,Saturday,2025-04
+2025-04-27,Healthcare,8327,Expense,Cash,Transaction 117,4,2025,Sunday,2025-04
+2025-04-28,Salary,5303,Income,UPI,Transaction 118,4,2025,Monday,2025-04
+2025-04-29,Shopping,9767,Expense,Credit Card,Transaction 119,4,2025,Tuesday,2025-04
+2025-04-30,Education,1898,Expense,Debit Card,Transaction 120,4,2025,Wednesday,2025-04
+2025-05-01,Bills,9700,Expense,UPI,Transaction 121,5,2025,Thursday,2025-05
+2025-05-02,Bills,5391,Expense,Debit Card,Transaction 122,5,2025,Friday,2025-05
+2025-05-03,Transport,5595,Expense,UPI,Transaction 123,5,2025,Saturday,2025-05
+2025-05-04,Salary,6384,Income,Cash,Transaction 124,5,2025,Sunday,2025-05
+2025-05-05,Shopping,7385,Expense,Cash,Transaction 125,5,2025,Monday,2025-05
+2025-05-06,Shopping,1400,Expense,UPI,Transaction 126,5,2025,Tuesday,2025-05
+2025-05-07,Education,6969,Expense,Debit Card,Transaction 127,5,2025,Wednesday,2025-05
+2025-05-08,Healthcare,9535,Expense,Credit Card,Transaction 128,5,2025,Thursday,2025-05
+2025-05-09,Salary,3197,Income,Credit Card,Transaction 129,5,2025,Friday,2025-05
+2025-05-10,Entertainment,4716,Expense,Cash,Transaction 130,5,2025,Saturday,2025-05
+2025-05-11,Bills,109,Expense,Credit Card,Transaction 131,5,2025,Sunday,2025-05
+2025-05-12,Healthcare,5852,Expense,Cash,Transaction 132,5,2025,Monday,2025-05
+2025-05-13,Salary,9952,Income,Credit Card,Transaction 133,5,2025,Tuesday,2025-05
+2025-05-14,Food,6395,Expense,UPI,Transaction 134,5,2025,Wednesday,2025-05
+2025-05-15,Bills,4915,Expense,Cash,Transaction 135,5,2025,Thursday,2025-05
+2025-05-16,Healthcare,1172,Expense,Cash,Transaction 136,5,2025,Friday,2025-05
+2025-05-17,Bills,3325,Expense,UPI,Transaction 137,5,2025,Saturday,2025-05
+2025-05-18,Entertainment,1416,Expense,Cash,Transaction 138,5,2025,Sunday,2025-05
+2025-05-19,Food,5799,Expense,Credit Card,Transaction 139,5,2025,Monday,2025-05
+2025-05-20,Entertainment,6907,Expense,Credit Card,Transaction 140,5,2025,Tuesday,2025-05
+2025-05-21,Education,6774,Expense,Cash,Transaction 141,5,2025,Wednesday,2025-05
+2025-05-22,Food,3783,Expense,Credit Card,Transaction 142,5,2025,Thursday,2025-05
+2025-05-23,Transport,7327,Expense,Debit Card,Transaction 143,5,2025,Friday,2025-05
+2025-05-24,Healthcare,3373,Expense,Cash,Transaction 144,5,2025,Saturday,2025-05
+2025-05-25,Food,7100,Expense,UPI,Transaction 145,5,2025,Sunday,2025-05
+2025-05-26,Salary,245,Income,Debit Card,Transaction 146,5,2025,Monday,2025-05
+2025-05-27,Education,5110,Expense,Cash,Transaction 147,5,2025,Tuesday,2025-05
+2025-05-28,Education,3140,Expense,UPI,Transaction 148,5,2025,Wednesday,2025-05
+2025-05-29,Salary,9754,Income,Credit Card,Transaction 149,5,2025,Thursday,2025-05
+2025-05-30,Entertainment,9876,Expense,UPI,Transaction 150,5,2025,Friday,2025-05
+2025-05-31,Bills,582,Expense,Debit Card,Transaction 151,5,2025,Saturday,2025-05
+2025-06-01,Food,3279,Expense,Credit Card,Transaction 152,6,2025,Sunday,2025-06
+2025-06-02,Salary,1349,Income,Cash,Transaction 153,6,2025,Monday,2025-06
+2025-06-03,Healthcare,730,Expense,Credit Card,Transaction 154,6,2025,Tuesday,2025-06
+2025-06-04,Food,8953,Expense,Cash,Transaction 155,6,2025,Wednesday,2025-06
+2025-06-05,Shopping,2952,Expense,Cash,Transaction 156,6,2025,Thursday,2025-06
+2025-06-06,Bills,1087,Expense,UPI,Transaction 157,6,2025,Friday,2025-06
+2025-06-07,Healthcare,7722,Expense,UPI,Transaction 158,6,2025,Saturday,2025-06
+2025-06-08,Healthcare,7427,Expense,UPI,Transaction 159,6,2025,Sunday,2025-06
+2025-06-09,Transport,9838,Expense,Debit Card,Transaction 160,6,2025,Monday,2025-06
+2025-06-10,Entertainment,8941,Expense,Debit Card,Transaction 161,6,2025,Tuesday,2025-06
+2025-06-11,Transport,9260,Expense,UPI,Transaction 162,6,2025,Wednesday,2025-06
+2025-06-12,Healthcare,1200,Expense,Debit Card,Transaction 163,6,2025,Thursday,2025-06
+2025-06-13,Bills,6752,Expense,Credit Card,Transaction 164,6,2025,Friday,2025-06
+2025-06-14,Salary,8732,Income,Credit Card,Transaction 165,6,2025,Saturday,2025-06
+2025-06-15,Food,7521,Expense,Debit Card,Transaction 166,6,2025,Sunday,2025-06
+2025-06-16,Food,5116,Expense,Debit Card,Transaction 167,6,2025,Monday,2025-06
+2025-06-17,Salary,869,Income,Credit Card,Transaction 168,6,2025,Tuesday,2025-06
+2025-06-18,Salary,1443,Income,Cash,Transaction 169,6,2025,Wednesday,2025-06
+2025-06-19,Bills,4458,Expense,Credit Card,Transaction 170,6,2025,Thursday,2025-06
+2025-06-20,Healthcare,9869,Expense,Credit Card,Transaction 171,6,2025,Friday,2025-06
+2025-06-21,Salary,6880,Income,Debit Card,Transaction 172,6,2025,Saturday,2025-06
+2025-06-22,Education,6702,Expense,Credit Card,Transaction 173,6,2025,Sunday,2025-06
+2025-06-23,Food,2449,Expense,Debit Card,Transaction 174,6,2025,Monday,2025-06
+2025-06-24,Education,5799,Expense,Debit Card,Transaction 175,6,2025,Tuesday,2025-06
+2025-06-25,Salary,1341,Income,UPI,Transaction 176,6,2025,Wednesday,2025-06
+2025-06-26,Food,1225,Expense,Credit Card,Transaction 177,6,2025,Thursday,2025-06
+2025-06-27,Food,9482,Expense,Cash,Transaction 178,6,2025,Friday,2025-06
+2025-06-28,Entertainment,6864,Expense,UPI,Transaction 179,6,2025,Saturday,2025-06
+2025-06-29,Salary,5201,Income,Debit Card,Transaction 180,6,2025,Sunday,2025-06
+2025-06-30,Entertainment,7943,Expense,Debit Card,Transaction 181,6,2025,Monday,2025-06
+2025-07-01,Salary,172,Income,Cash,Transaction 182,7,2025,Tuesday,2025-07
+2025-07-02,Shopping,5572,Expense,Debit Card,Transaction 183,7,2025,Wednesday,2025-07
+2025-07-03,Transport,5289,Expense,Credit Card,Transaction 184,7,2025,Thursday,2025-07
+2025-07-04,Bills,2572,Expense,UPI,Transaction 185,7,2025,Friday,2025-07
+2025-07-05,Bills,807,Expense,Debit Card,Transaction 186,7,2025,Saturday,2025-07
+2025-07-06,Bills,1904,Expense,Debit Card,Transaction 187,7,2025,Sunday,2025-07
+2025-07-07,Shopping,6804,Expense,Cash,Transaction 188,7,2025,Monday,2025-07
+2025-07-08,Entertainment,3813,Expense,Credit Card,Transaction 189,7,2025,Tuesday,2025-07
+2025-07-09,Healthcare,5151,Expense,Debit Card,Transaction 190,7,2025,Wednesday,2025-07
+2025-07-10,Salary,2575,Income,Cash,Transaction 191,7,2025,Thursday,2025-07
+2025-07-11,Education,3710,Expense,Debit Card,Transaction 192,7,2025,Friday,2025-07
+2025-07-12,Education,4355,Expense,Cash,Transaction 193,7,2025,Saturday,2025-07
+2025-07-13,Healthcare,7497,Expense,Cash,Transaction 194,7,2025,Sunday,2025-07
+2025-07-14,Shopping,1835,Expense,Credit Card,Transaction 195,7,2025,Monday,2025-07
+2025-07-15,Healthcare,9877,Expense,Debit Card,Transaction 196,7,2025,Tuesday,2025-07
+2025-07-16,Bills,8358,Expense,Credit Card,Transaction 197,7,2025,Wednesday,2025-07
+2025-07-17,Transport,8079,Expense,Cash,Transaction 198,7,2025,Thursday,2025-07
+2025-07-18,Food,2528,Expense,UPI,Transaction 199,7,2025,Friday,2025-07
+2025-07-19,Education,7526,Expense,Debit Card,Transaction 200,7,2025,Saturday,2025-07
+2025-07-20,Entertainment,8633,Expense,UPI,Transaction 201,7,2025,Sunday,2025-07
+2025-07-21,Salary,5349,Income,Debit Card,Transaction 202,7,2025,Monday,2025-07
+2025-07-22,Salary,5391,Income,Credit Card,Transaction 203,7,2025,Tuesday,2025-07
+2025-07-23,Entertainment,2917,Expense,Credit Card,Transaction 204,7,2025,Wednesday,2025-07
+2025-07-24,Shopping,9524,Expense,Credit Card,Transaction 205,7,2025,Thursday,2025-07
+2025-07-25,Salary,3974,Income,Credit Card,Transaction 206,7,2025,Friday,2025-07
+2025-07-26,Salary,9786,Income,Credit Card,Transaction 207,7,2025,Saturday,2025-07
+2025-07-27,Entertainment,4311,Expense,UPI,Transaction 208,7,2025,Sunday,2025-07
+2025-07-28,Salary,761,Income,Credit Card,Transaction 209,7,2025,Monday,2025-07
+2025-07-29,Salary,3474,Income,Cash,Transaction 210,7,2025,Tuesday,2025-07
+2025-07-30,Bills,9308,Expense,Cash,Transaction 211,7,2025,Wednesday,2025-07
+2025-07-31,Education,307,Expense,UPI,Transaction 212,7,2025,Thursday,2025-07
+2025-08-01,Healthcare,2765,Expense,Debit Card,Transaction 213,8,2025,Friday,2025-08
+2025-08-02,Bills,2593,Expense,Cash,Transaction 214,8,2025,Saturday,2025-08
+2025-08-03,Shopping,6913,Expense,Debit Card,Transaction 215,8,2025,Sunday,2025-08
+2025-08-04,Bills,732,Expense,UPI,Transaction 216,8,2025,Monday,2025-08
+2025-08-05,Healthcare,3183,Expense,Debit Card,Transaction 217,8,2025,Tuesday,2025-08
+2025-08-06,Transport,3819,Expense,Debit Card,Transaction 218,8,2025,Wednesday,2025-08
+2025-08-07,Shopping,7223,Expense,Debit Card,Transaction 219,8,2025,Thursday,2025-08
+2025-08-08,Transport,1779,Expense,Debit Card,Transaction 220,8,2025,Friday,2025-08
+2025-08-09,Food,336,Expense,UPI,Transaction 221,8,2025,Saturday,2025-08
+2025-08-10,Transport,7546,Expense,Cash,Transaction 222,8,2025,Sunday,2025-08
+2025-08-11,Salary,4543,Income,Credit Card,Transaction 223,8,2025,Monday,2025-08
+2025-08-12,Food,6870,Expense,Debit Card,Transaction 224,8,2025,Tuesday,2025-08
+2025-08-13,Food,9832,Expense,Cash,Transaction 225,8,2025,Wednesday,2025-08
+2025-08-14,Transport,6199,Expense,Cash,Transaction 226,8,2025,Thursday,2025-08
+2025-08-15,Shopping,8655,Expense,UPI,Transaction 227,8,2025,Friday,2025-08
+2025-08-16,Healthcare,2468,Expense,Cash,Transaction 228,8,2025,Saturday,2025-08
+2025-08-17,Bills,385,Expense,UPI,Transaction 229,8,2025,Sunday,2025-08
+2025-08-18,Bills,248,Expense,Debit Card,Transaction 230,8,2025,Monday,2025-08
+2025-08-19,Healthcare,4137,Expense,Debit Card,Transaction 231,8,2025,Tuesday,2025-08
+2025-08-20,Education,6649,Expense,Credit Card,Transaction 232,8,2025,Wednesday,2025-08
+2025-08-21,Education,7221,Expense,Credit Card,Transaction 233,8,2025,Thursday,2025-08
+2025-08-22,Food,4995,Expense,Credit Card,Transaction 234,8,2025,Friday,2025-08
+2025-08-23,Salary,5380,Income,Cash,Transaction 235,8,2025,Saturday,2025-08
+2025-08-24,Food,1112,Expense,Debit Card,Transaction 236,8,2025,Sunday,2025-08
+2025-08-25,Shopping,9815,Expense,UPI,Transaction 237,8,2025,Monday,2025-08
+2025-08-26,Salary,2885,Income,Credit Card,Transaction 238,8,2025,Tuesday,2025-08
+2025-08-27,Entertainment,3825,Expense,UPI,Transaction 239,8,2025,Wednesday,2025-08
+2025-08-28,Salary,4676,Income,UPI,Transaction 240,8,2025,Thursday,2025-08
+2025-08-29,Transport,5882,Expense,Credit Card,Transaction 241,8,2025,Friday,2025-08
+2025-08-30,Food,6357,Expense,Debit Card,Transaction 242,8,2025,Saturday,2025-08
+2025-08-31,Bills,9893,Expense,Credit Card,Transaction 243,8,2025,Sunday,2025-08
+2025-09-01,Shopping,2508,Expense,UPI,Transaction 244,9,2025,Monday,2025-09
+2025-09-02,Salary,440,Income,Credit Card,Transaction 245,9,2025,Tuesday,2025-09
+2025-09-03,Transport,2917,Expense,UPI,Transaction 246,9,2025,Wednesday,2025-09
+2025-09-04,Shopping,2596,Expense,UPI,Transaction 247,9,2025,Thursday,2025-09
+2025-09-05,Transport,6062,Expense,Credit Card,Transaction 248,9,2025,Friday,2025-09
+2025-09-06,Transport,5399,Expense,Cash,Transaction 249,9,2025,Saturday,2025-09
+2025-09-07,Healthcare,7674,Expense,Credit Card,Transaction 250,9,2025,Sunday,2025-09
+2025-09-08,Food,1789,Expense,Cash,Transaction 251,9,2025,Monday,2025-09
+2025-09-09,Shopping,3367,Expense,UPI,Transaction 252,9,2025,Tuesday,2025-09
+2025-09-10,Shopping,4506,Expense,UPI,Transaction 253,9,2025,Wednesday,2025-09
+2025-09-11,Healthcare,8553,Expense,Cash,Transaction 254,9,2025,Thursday,2025-09
+2025-09-12,Salary,1542,Income,UPI,Transaction 255,9,2025,Friday,2025-09
+2025-09-13,Bills,8697,Expense,Cash,Transaction 256,9,2025,Saturday,2025-09
+2025-09-14,Bills,4537,Expense,Cash,Transaction 257,9,2025,Sunday,2025-09
+2025-09-15,Education,5535,Expense,UPI,Transaction 258,9,2025,Monday,2025-09
+2025-09-16,Food,8535,Expense,Debit Card,Transaction 259,9,2025,Tuesday,2025-09
+2025-09-17,Salary,4207,Income,Cash,Transaction 260,9,2025,Wednesday,2025-09
+2025-09-18,Food,660,Expense,Credit Card,Transaction 261,9,2025,Thursday,2025-09
+2025-09-19,Entertainment,8885,Expense,Credit Card,Transaction 262,9,2025,Friday,2025-09
+2025-09-20,Salary,5648,Income,UPI,Transaction 263,9,2025,Saturday,2025-09
+2025-09-21,Healthcare,1926,Expense,Debit Card,Transaction 264,9,2025,Sunday,2025-09
+2025-09-22,Bills,7729,Expense,UPI,Transaction 265,9,2025,Monday,2025-09
+2025-09-23,Transport,8425,Expense,Debit Card,Transaction 266,9,2025,Tuesday,2025-09
+2025-09-24,Shopping,3238,Expense,Cash,Transaction 267,9,2025,Wednesday,2025-09
+2025-09-25,Food,7793,Expense,Cash,Transaction 268,9,2025,Thursday,2025-09
+2025-09-26,Shopping,8364,Expense,Cash,Transaction 269,9,2025,Friday,2025-09
+2025-09-27,Shopping,7942,Expense,Cash,Transaction 270,9,2025,Saturday,2025-09
+2025-09-28,Entertainment,6821,Expense,Credit Card,Transaction 271,9,2025,Sunday,2025-09
+2025-09-29,Bills,7102,Expense,Credit Card,Transaction 272,9,2025,Monday,2025-09
+2025-09-30,Food,4325,Expense,UPI,Transaction 273,9,2025,Tuesday,2025-09
+2025-10-01,Shopping,3078,Expense,Debit Card,Transaction 274,10,2025,Wednesday,2025-10
+2025-10-02,Food,7473,Expense,Cash,Transaction 275,10,2025,Thursday,2025-10
+2025-10-03,Transport,6007,Expense,Cash,Transaction 276,10,2025,Friday,2025-10
+2025-10-04,Entertainment,6197,Expense,Debit Card,Transaction 277,10,2025,Saturday,2025-10
+2025-10-05,Transport,5756,Expense,Debit Card,Transaction 278,10,2025,Sunday,2025-10
+2025-10-06,Food,9084,Expense,UPI,Transaction 279,10,2025,Monday,2025-10
+2025-10-07,Education,4359,Expense,Debit Card,Transaction 280,10,2025,Tuesday,2025-10
+2025-10-08,Food,8386,Expense,Cash,Transaction 281,10,2025,Wednesday,2025-10
+2025-10-09,Bills,6001,Expense,Cash,Transaction 282,10,2025,Thursday,2025-10
+2025-10-10,Shopping,9425,Expense,Cash,Transaction 283,10,2025,Friday,2025-10
+2025-10-11,Salary,5017,Income,Cash,Transaction 284,10,2025,Saturday,2025-10
+2025-10-12,Shopping,8529,Expense,Cash,Transaction 285,10,2025,Sunday,2025-10
+2025-10-13,Salary,2630,Income,UPI,Transaction 286,10,2025,Monday,2025-10
+2025-10-14,Transport,2060,Expense,Cash,Transaction 287,10,2025,Tuesday,2025-10
+2025-10-15,Entertainment,7145,Expense,UPI,Transaction 288,10,2025,Wednesday,2025-10
+2025-10-16,Education,1148,Expense,Cash,Transaction 289,10,2025,Thursday,2025-10
+2025-10-17,Healthcare,5872,Expense,Credit Card,Transaction 290,10,2025,Friday,2025-10
+2025-10-18,Salary,2629,Income,Credit Card,Transaction 291,10,2025,Saturday,2025-10
+2025-10-19,Salary,3064,Income,Credit Card,Transaction 292,10,2025,Sunday,2025-10
+2025-10-20,Shopping,7237,Expense,Credit Card,Transaction 293,10,2025,Monday,2025-10
+2025-10-21,Bills,1063,Expense,UPI,Transaction 294,10,2025,Tuesday,2025-10
+2025-10-22,Salary,636,Income,UPI,Transaction 295,10,2025,Wednesday,2025-10
+2025-10-23,Transport,7440,Expense,Debit Card,Transaction 296,10,2025,Thursday,2025-10
+2025-10-24,Transport,7279,Expense,Cash,Transaction 297,10,2025,Friday,2025-10
+2025-10-25,Healthcare,8067,Expense,Credit Card,Transaction 298,10,2025,Saturday,2025-10
+2025-10-26,Bills,8834,Expense,UPI,Transaction 299,10,2025,Sunday,2025-10
+2025-10-27,Salary,945,Income,Cash,Transaction 300,10,2025,Monday,2025-10
+2025-10-28,Salary,5877,Income,Cash,Transaction 301,10,2025,Tuesday,2025-10
+2025-10-29,Entertainment,3136,Expense,UPI,Transaction 302,10,2025,Wednesday,2025-10
+2025-10-30,Bills,6047,Expense,Credit Card,Transaction 303,10,2025,Thursday,2025-10
+2025-10-31,Entertainment,2594,Expense,Debit Card,Transaction 304,10,2025,Friday,2025-10
+2025-11-01,Bills,2819,Expense,Cash,Transaction 305,11,2025,Saturday,2025-11
+2025-11-02,Bills,1984,Expense,Debit Card,Transaction 306,11,2025,Sunday,2025-11
+2025-11-03,Food,4449,Expense,Credit Card,Transaction 307,11,2025,Monday,2025-11
+2025-11-04,Transport,5279,Expense,Credit Card,Transaction 308,11,2025,Tuesday,2025-11
+2025-11-05,Bills,6710,Expense,Debit Card,Transaction 309,11,2025,Wednesday,2025-11
+2025-11-06,Healthcare,6530,Expense,Credit Card,Transaction 310,11,2025,Thursday,2025-11
+2025-11-07,Bills,7254,Expense,Cash,Transaction 311,11,2025,Friday,2025-11
+2025-11-08,Salary,6588,Income,Debit Card,Transaction 312,11,2025,Saturday,2025-11
+2025-11-09,Salary,4837,Income,Credit Card,Transaction 313,11,2025,Sunday,2025-11
+2025-11-10,Shopping,6625,Expense,Debit Card,Transaction 314,11,2025,Monday,2025-11
+2025-11-11,Transport,3950,Expense,Cash,Transaction 315,11,2025,Tuesday,2025-11
+2025-11-12,Shopping,789,Expense,Credit Card,Transaction 316,11,2025,Wednesday,2025-11
+2025-11-13,Transport,5275,Expense,Cash,Transaction 317,11,2025,Thursday,2025-11
+2025-11-14,Salary,8748,Income,Credit Card,Transaction 318,11,2025,Friday,2025-11
+2025-11-15,Salary,5178,Income,UPI,Transaction 319,11,2025,Saturday,2025-11
+2025-11-16,Shopping,5548,Expense,Credit Card,Transaction 320,11,2025,Sunday,2025-11
+2025-11-17,Bills,1279,Expense,Debit Card,Transaction 321,11,2025,Monday,2025-11
+2025-11-18,Bills,9174,Expense,Credit Card,Transaction 322,11,2025,Tuesday,2025-11
+2025-11-19,Food,6506,Expense,Cash,Transaction 323,11,2025,Wednesday,2025-11
+2025-11-20,Healthcare,8691,Expense,Cash,Transaction 324,11,2025,Thursday,2025-11
+2025-11-21,Shopping,7007,Expense,Credit Card,Transaction 325,11,2025,Friday,2025-11
+2025-11-22,Entertainment,8900,Expense,Debit Card,Transaction 326,11,2025,Saturday,2025-11
+2025-11-23,Food,1738,Expense,UPI,Transaction 327,11,2025,Sunday,2025-11
+2025-11-24,Shopping,5771,Expense,Debit Card,Transaction 328,11,2025,Monday,2025-11
+2025-11-25,Shopping,7028,Expense,UPI,Transaction 329,11,2025,Tuesday,2025-11
+2025-11-26,Food,1482,Expense,Cash,Transaction 330,11,2025,Wednesday,2025-11
+2025-11-27,Bills,1503,Expense,Debit Card,Transaction 331,11,2025,Thursday,2025-11
+2025-11-28,Shopping,9111,Expense,UPI,Transaction 332,11,2025,Friday,2025-11
+2025-11-29,Salary,3392,Income,Credit Card,Transaction 333,11,2025,Saturday,2025-11
+2025-11-30,Salary,9111,Income,Cash,Transaction 334,11,2025,Sunday,2025-11
+2025-12-01,Salary,519,Income,Credit Card,Transaction 335,12,2025,Monday,2025-12
+2025-12-02,Salary,4617,Income,Cash,Transaction 336,12,2025,Tuesday,2025-12
+2025-12-03,Bills,3402,Expense,Debit Card,Transaction 337,12,2025,Wednesday,2025-12
+2025-12-04,Food,7957,Expense,Debit Card,Transaction 338,12,2025,Thursday,2025-12
+2025-12-05,Bills,9800,Expense,Cash,Transaction 339,12,2025,Friday,2025-12
+2025-12-06,Salary,7970,Income,Cash,Transaction 340,12,2025,Saturday,2025-12
+2025-12-07,Transport,5793,Expense,Cash,Transaction 341,12,2025,Sunday,2025-12
+2025-12-08,Entertainment,867,Expense,Debit Card,Transaction 342,12,2025,Monday,2025-12
+2025-12-09,Salary,2144,Income,UPI,Transaction 343,12,2025,Tuesday,2025-12
+2025-12-10,Education,1649,Expense,Credit Card,Transaction 344,12,2025,Wednesday,2025-12
+2025-12-11,Shopping,6240,Expense,Credit Card,Transaction 345,12,2025,Thursday,2025-12
+2025-12-12,Healthcare,3816,Expense,Debit Card,Transaction 346,12,2025,Friday,2025-12
+2025-12-13,Entertainment,4581,Expense,Credit Card,Transaction 347,12,2025,Saturday,2025-12
+2025-12-14,Salary,7998,Income,Cash,Transaction 348,12,2025,Sunday,2025-12
+2025-12-15,Education,6648,Expense,UPI,Transaction 349,12,2025,Monday,2025-12
+2025-12-16,Bills,2393,Expense,Credit Card,Transaction 350,12,2025,Tuesday,2025-12
+2025-12-17,Shopping,4937,Expense,UPI,Transaction 351,12,2025,Wednesday,2025-12
+2025-12-18,Bills,7858,Expense,Cash,Transaction 352,12,2025,Thursday,2025-12
+2025-12-19,Transport,6893,Expense,Credit Card,Transaction 353,12,2025,Friday,2025-12
+2025-12-20,Salary,7738,Income,Debit Card,Transaction 354,12,2025,Saturday,2025-12
+2025-12-21,Salary,8093,Income,UPI,Transaction 355,12,2025,Sunday,2025-12
+2025-12-22,Food,6107,Expense,Cash,Transaction 356,12,2025,Monday,2025-12
+2025-12-23,Salary,5642,Income,UPI,Transaction 357,12,2025,Tuesday,2025-12
+2025-12-24,Shopping,9192,Expense,Credit Card,Transaction 358,12,2025,Wednesday,2025-12
+2025-12-25,Education,6456,Expense,Credit Card,Transaction 359,12,2025,Thursday,2025-12
+2025-12-26,Education,8533,Expense,Debit Card,Transaction 360,12,2025,Friday,2025-12
+2025-12-27,Transport,7480,Expense,Cash,Transaction 361,12,2025,Saturday,2025-12
+2025-12-28,Transport,2485,Expense,Cash,Transaction 362,12,2025,Sunday,2025-12
+2025-12-29,Shopping,4368,Expense,Debit Card,Transaction 363,12,2025,Monday,2025-12
+2025-12-30,Bills,771,Expense,Debit Card,Transaction 364,12,2025,Tuesday,2025-12
+2025-12-31,Healthcare,263,Expense,Cash,Transaction 365,12,2025,Wednesday,2025-12
+2026-01-01,Education,8756,Expense,UPI,Transaction 366,1,2026,Thursday,2026-01
+2026-01-02,Education,4692,Expense,UPI,Transaction 367,1,2026,Friday,2026-01
+2026-01-03,Transport,4895,Expense,Debit Card,Transaction 368,1,2026,Saturday,2026-01
+2026-01-04,Salary,4898,Income,UPI,Transaction 369,1,2026,Sunday,2026-01
+2026-01-05,Salary,6136,Income,Cash,Transaction 370,1,2026,Monday,2026-01
+2026-01-06,Salary,2455,Income,Credit Card,Transaction 371,1,2026,Tuesday,2026-01
+2026-01-07,Salary,5987,Income,Credit Card,Transaction 372,1,2026,Wednesday,2026-01
+2026-01-08,Salary,8061,Income,UPI,Transaction 373,1,2026,Thursday,2026-01
+2026-01-09,Entertainment,5927,Expense,Debit Card,Transaction 374,1,2026,Friday,2026-01
+2026-01-10,Salary,8837,Income,Debit Card,Transaction 375,1,2026,Saturday,2026-01
+2026-01-11,Transport,4819,Expense,Debit Card,Transaction 376,1,2026,Sunday,2026-01
+2026-01-12,Healthcare,693,Expense,Debit Card,Transaction 377,1,2026,Monday,2026-01
+2026-01-13,Salary,4939,Income,Debit Card,Transaction 378,1,2026,Tuesday,2026-01
+2026-01-14,Bills,7494,Expense,UPI,Transaction 379,1,2026,Wednesday,2026-01
+2026-01-15,Bills,9751,Expense,Credit Card,Transaction 380,1,2026,Thursday,2026-01
+2026-01-16,Salary,3593,Income,Credit Card,Transaction 381,1,2026,Friday,2026-01
+2026-01-17,Entertainment,6264,Expense,UPI,Transaction 382,1,2026,Saturday,2026-01
+2026-01-18,Education,2772,Expense,Debit Card,Transaction 383,1,2026,Sunday,2026-01
+2026-01-19,Transport,4300,Expense,UPI,Transaction 384,1,2026,Monday,2026-01
+2026-01-20,Bills,116,Expense,Credit Card,Transaction 385,1,2026,Tuesday,2026-01
+2026-01-21,Healthcare,3291,Expense,Cash,Transaction 386,1,2026,Wednesday,2026-01
+2026-01-22,Shopping,492,Expense,UPI,Transaction 387,1,2026,Thursday,2026-01
+2026-01-23,Salary,8716,Income,Debit Card,Transaction 388,1,2026,Friday,2026-01
+2026-01-24,Food,6372,Expense,Credit Card,Transaction 389,1,2026,Saturday,2026-01
+2026-01-25,Food,671,Expense,Credit Card,Transaction 390,1,2026,Sunday,2026-01
+2026-01-26,Food,3731,Expense,Credit Card,Transaction 391,1,2026,Monday,2026-01
+2026-01-27,Education,6272,Expense,Credit Card,Transaction 392,1,2026,Tuesday,2026-01
+2026-01-28,Transport,9412,Expense,Debit Card,Transaction 393,1,2026,Wednesday,2026-01
+2026-01-29,Entertainment,7277,Expense,Cash,Transaction 394,1,2026,Thursday,2026-01
+2026-01-30,Bills,8533,Expense,Credit Card,Transaction 395,1,2026,Friday,2026-01
+2026-01-31,Shopping,3997,Expense,UPI,Transaction 396,1,2026,Saturday,2026-01
+2026-02-01,Healthcare,8223,Expense,Cash,Transaction 397,2,2026,Sunday,2026-02
+2026-02-02,Shopping,2379,Expense,Credit Card,Transaction 398,2,2026,Monday,2026-02
+2026-02-03,Healthcare,9080,Expense,Cash,Transaction 399,2,2026,Tuesday,2026-02
+2026-02-04,Education,7551,Expense,UPI,Transaction 400,2,2026,Wednesday,2026-02
+2026-02-05,Salary,9006,Income,Credit Card,Transaction 401,2,2026,Thursday,2026-02
+2026-02-06,Transport,875,Expense,UPI,Transaction 402,2,2026,Friday,2026-02
+2026-02-07,Food,6969,Expense,Debit Card,Transaction 403,2,2026,Saturday,2026-02
+2026-02-08,Transport,2347,Expense,Credit Card,Transaction 404,2,2026,Sunday,2026-02
+2026-02-09,Education,7188,Expense,Credit Card,Transaction 405,2,2026,Monday,2026-02
+2026-02-10,Entertainment,178,Expense,Credit Card,Transaction 406,2,2026,Tuesday,2026-02
+2026-02-11,Entertainment,8180,Expense,Credit Card,Transaction 407,2,2026,Wednesday,2026-02
+2026-02-12,Salary,7199,Income,Debit Card,Transaction 408,2,2026,Thursday,2026-02
+2026-02-13,Education,4026,Expense,Credit Card,Transaction 409,2,2026,Friday,2026-02
+2026-02-14,Salary,9147,Income,Cash,Transaction 410,2,2026,Saturday,2026-02
+2026-02-15,Healthcare,7440,Expense,Credit Card,Transaction 411,2,2026,Sunday,2026-02
+2026-02-16,Bills,7183,Expense,Debit Card,Transaction 412,2,2026,Monday,2026-02
+2026-02-17,Bills,6330,Expense,Credit Card,Transaction 413,2,2026,Tuesday,2026-02
+2026-02-18,Healthcare,9323,Expense,Cash,Transaction 414,2,2026,Wednesday,2026-02
+2026-02-19,Entertainment,5040,Expense,Debit Card,Transaction 415,2,2026,Thursday,2026-02
+2026-02-20,Entertainment,3371,Expense,Debit Card,Transaction 416,2,2026,Friday,2026-02
+2026-02-21,Entertainment,3556,Expense,Cash,Transaction 417,2,2026,Saturday,2026-02
+2026-02-22,Transport,7888,Expense,Cash,Transaction 418,2,2026,Sunday,2026-02
+2026-02-23,Entertainment,8699,Expense,Cash,Transaction 419,2,2026,Monday,2026-02
+2026-02-24,Shopping,7750,Expense,Cash,Transaction 420,2,2026,Tuesday,2026-02
+2026-02-25,Food,2811,Expense,Cash,Transaction 421,2,2026,Wednesday,2026-02
+2026-02-26,Entertainment,1768,Expense,Debit Card,Transaction 422,2,2026,Thursday,2026-02
+2026-02-27,Salary,247,Income,Debit Card,Transaction 423,2,2026,Friday,2026-02
+2026-02-28,Healthcare,6520,Expense,Credit Card,Transaction 424,2,2026,Saturday,2026-02
+2026-03-01,Salary,465,Income,Credit Card,Transaction 425,3,2026,Sunday,2026-03
+2026-03-02,Food,9966,Expense,UPI,Transaction 426,3,2026,Monday,2026-03
+2026-03-03,Transport,4631,Expense,Credit Card,Transaction 427,3,2026,Tuesday,2026-03
+2026-03-04,Healthcare,5430,Expense,Credit Card,Transaction 428,3,2026,Wednesday,2026-03
+2026-03-05,Food,5610,Expense,Cash,Transaction 429,3,2026,Thursday,2026-03
+2026-03-06,Salary,8854,Income,Cash,Transaction 430,3,2026,Friday,2026-03
+2026-03-07,Salary,9064,Income,Credit Card,Transaction 431,3,2026,Saturday,2026-03
+2026-03-08,Healthcare,6593,Expense,UPI,Transaction 432,3,2026,Sunday,2026-03
+2026-03-09,Transport,5539,Expense,Cash,Transaction 433,3,2026,Monday,2026-03
+2026-03-10,Salary,9865,Income,Credit Card,Transaction 434,3,2026,Tuesday,2026-03
+2026-03-11,Salary,6611,Income,Credit Card,Transaction 435,3,2026,Wednesday,2026-03
+2026-03-12,Shopping,7604,Expense,Debit Card,Transaction 436,3,2026,Thursday,2026-03
+2026-03-13,Salary,1346,Income,UPI,Transaction 437,3,2026,Friday,2026-03
+2026-03-14,Transport,3939,Expense,Debit Card,Transaction 438,3,2026,Saturday,2026-03
+2026-03-15,Transport,8651,Expense,UPI,Transaction 439,3,2026,Sunday,2026-03
+2026-03-16,Salary,2476,Income,Cash,Transaction 440,3,2026,Monday,2026-03
+2026-03-17,Salary,3109,Income,UPI,Transaction 441,3,2026,Tuesday,2026-03
+2026-03-18,Healthcare,9254,Expense,Credit Card,Transaction 442,3,2026,Wednesday,2026-03
+2026-03-19,Education,1927,Expense,Credit Card,Transaction 443,3,2026,Thursday,2026-03
+2026-03-20,Bills,7079,Expense,UPI,Transaction 444,3,2026,Friday,2026-03
+2026-03-21,Entertainment,9905,Expense,UPI,Transaction 445,3,2026,Saturday,2026-03
+2026-03-22,Entertainment,9932,Expense,UPI,Transaction 446,3,2026,Sunday,2026-03
+2026-03-23,Shopping,8669,Expense,Debit Card,Transaction 447,3,2026,Monday,2026-03
+2026-03-24,Shopping,4385,Expense,UPI,Transaction 448,3,2026,Tuesday,2026-03
+2026-03-25,Entertainment,7010,Expense,Cash,Transaction 449,3,2026,Wednesday,2026-03
+2026-03-26,Salary,8661,Income,Debit Card,Transaction 450,3,2026,Thursday,2026-03
+2026-03-27,Bills,2296,Expense,Debit Card,Transaction 451,3,2026,Friday,2026-03
+2026-03-28,Entertainment,3847,Expense,UPI,Transaction 452,3,2026,Saturday,2026-03
+2026-03-29,Education,8943,Expense,Cash,Transaction 453,3,2026,Sunday,2026-03
+2026-03-30,Bills,6078,Expense,Debit Card,Transaction 454,3,2026,Monday,2026-03
+2026-03-31,Salary,5707,Income,Credit Card,Transaction 455,3,2026,Tuesday,2026-03
+2026-04-01,Shopping,869,Expense,Debit Card,Transaction 456,4,2026,Wednesday,2026-04
+2026-04-02,Salary,880,Income,UPI,Transaction 457,4,2026,Thursday,2026-04
+2026-04-03,Food,6403,Expense,Cash,Transaction 458,4,2026,Friday,2026-04
+2026-04-04,Salary,4083,Income,UPI,Transaction 459,4,2026,Saturday,2026-04
+2026-04-05,Salary,9603,Income,Credit Card,Transaction 460,4,2026,Sunday,2026-04
+2026-04-06,Salary,8814,Income,Credit Card,Transaction 461,4,2026,Monday,2026-04
+2026-04-07,Healthcare,621,Expense,Credit Card,Transaction 462,4,2026,Tuesday,2026-04
+2026-04-08,Education,9227,Expense,UPI,Transaction 463,4,2026,Wednesday,2026-04
+2026-04-09,Education,7669,Expense,Debit Card,Transaction 464,4,2026,Thursday,2026-04
+2026-04-10,Shopping,5884,Expense,UPI,Transaction 465,4,2026,Friday,2026-04
+2026-04-11,Shopping,4683,Expense,Cash,Transaction 466,4,2026,Saturday,2026-04
+2026-04-12,Transport,6046,Expense,Debit Card,Transaction 467,4,2026,Sunday,2026-04
+2026-04-13,Education,5041,Expense,Credit Card,Transaction 468,4,2026,Monday,2026-04
+2026-04-14,Transport,6367,Expense,UPI,Transaction 469,4,2026,Tuesday,2026-04
+2026-04-15,Transport,7228,Expense,Credit Card,Transaction 470,4,2026,Wednesday,2026-04
+2026-04-16,Salary,2561,Income,Credit Card,Transaction 471,4,2026,Thursday,2026-04
+2026-04-17,Healthcare,785,Expense,Cash,Transaction 472,4,2026,Friday,2026-04
+2026-04-18,Salary,2260,Income,Debit Card,Transaction 473,4,2026,Saturday,2026-04
+2026-04-19,Transport,7131,Expense,Cash,Transaction 474,4,2026,Sunday,2026-04
+2026-04-20,Bills,9859,Expense,Cash,Transaction 475,4,2026,Monday,2026-04
+2026-04-21,Entertainment,5441,Expense,Cash,Transaction 476,4,2026,Tuesday,2026-04
+2026-04-22,Salary,138,Income,Credit Card,Transaction 477,4,2026,Wednesday,2026-04
+2026-04-23,Food,4975,Expense,Cash,Transaction 478,4,2026,Thursday,2026-04
+2026-04-24,Shopping,1356,Expense,Cash,Transaction 479,4,2026,Friday,2026-04
+2026-04-25,Bills,7797,Expense,Debit Card,Transaction 480,4,2026,Saturday,2026-04
+2026-04-26,Food,2296,Expense,Debit Card,Transaction 481,4,2026,Sunday,2026-04
+2026-04-27,Education,7265,Expense,Cash,Transaction 482,4,2026,Monday,2026-04
+2026-04-28,Education,401,Expense,Debit Card,Transaction 483,4,2026,Tuesday,2026-04
+2026-04-29,Education,7627,Expense,Debit Card,Transaction 484,4,2026,Wednesday,2026-04
+2026-04-30,Bills,6481,Expense,Cash,Transaction 485,4,2026,Thursday,2026-04
+2026-05-01,Bills,746,Expense,Credit Card,Transaction 486,5,2026,Friday,2026-05
+2026-05-02,Salary,8889,Income,Cash,Transaction 487,5,2026,Saturday,2026-05
+2026-05-03,Shopping,8953,Expense,Debit Card,Transaction 488,5,2026,Sunday,2026-05
+2026-05-04,Entertainment,4430,Expense,Credit Card,Transaction 489,5,2026,Monday,2026-05
+2026-05-05,Transport,9660,Expense,UPI,Transaction 490,5,2026,Tuesday,2026-05
+2026-05-06,Education,7103,Expense,Credit Card,Transaction 491,5,2026,Wednesday,2026-05
+2026-05-07,Healthcare,3637,Expense,Debit Card,Transaction 492,5,2026,Thursday,2026-05
+2026-05-08,Entertainment,4658,Expense,Credit Card,Transaction 493,5,2026,Friday,2026-05
+2026-05-09,Salary,6679,Income,Cash,Transaction 494,5,2026,Saturday,2026-05
+2026-05-10,Healthcare,8574,Expense,UPI,Transaction 495,5,2026,Sunday,2026-05
+2026-05-11,Shopping,9778,Expense,UPI,Transaction 496,5,2026,Monday,2026-05
+2026-05-12,Shopping,4182,Expense,UPI,Transaction 497,5,2026,Tuesday,2026-05
+2026-05-13,Salary,4283,Income,Debit Card,Transaction 498,5,2026,Wednesday,2026-05
+2026-05-14,Shopping,8752,Expense,Debit Card,Transaction 499,5,2026,Thursday,2026-05
+2026-05-15,Food,3854,Expense,UPI,Transaction 500,5,2026,Friday,2026-05
+2026-05-16,Healthcare,1824,Expense,Credit Card,Transaction 501,5,2026,Saturday,2026-05
+2026-05-17,Entertainment,1476,Expense,UPI,Transaction 502,5,2026,Sunday,2026-05
+2026-05-18,Entertainment,8806,Expense,Credit Card,Transaction 503,5,2026,Monday,2026-05
+2026-05-19,Bills,8994,Expense,Credit Card,Transaction 504,5,2026,Tuesday,2026-05
+2026-05-20,Bills,1753,Expense,Debit Card,Transaction 505,5,2026,Wednesday,2026-05
+2026-05-21,Salary,2166,Income,Credit Card,Transaction 506,5,2026,Thursday,2026-05
+2026-05-22,Education,122,Expense,UPI,Transaction 507,5,2026,Friday,2026-05
+2026-05-23,Bills,2560,Expense,Debit Card,Transaction 508,5,2026,Saturday,2026-05
+2026-05-24,Shopping,6026,Expense,Cash,Transaction 509,5,2026,Sunday,2026-05
+2026-05-25,Entertainment,6351,Expense,Cash,Transaction 510,5,2026,Monday,2026-05
+2026-05-26,Healthcare,9596,Expense,Debit Card,Transaction 511,5,2026,Tuesday,2026-05
+2026-05-27,Shopping,7395,Expense,UPI,Transaction 512,5,2026,Wednesday,2026-05
+2026-05-28,Food,3400,Expense,Cash,Transaction 513,5,2026,Thursday,2026-05
+2026-05-29,Bills,6379,Expense,Cash,Transaction 514,5,2026,Friday,2026-05
+2026-05-30,Salary,8653,Income,Credit Card,Transaction 515,5,2026,Saturday,2026-05
+2026-05-31,Salary,7453,Income,Credit Card,Transaction 516,5,2026,Sunday,2026-05
+2026-06-01,Shopping,3827,Expense,UPI,Transaction 517,6,2026,Monday,2026-06
+2026-06-02,Shopping,6372,Expense,Debit Card,Transaction 518,6,2026,Tuesday,2026-06
+2026-06-03,Food,6095,Expense,UPI,Transaction 519,6,2026,Wednesday,2026-06
+2026-06-04,Salary,9576,Income,Debit Card,Transaction 520,6,2026,Thursday,2026-06
+2026-06-05,Transport,614,Expense,Cash,Transaction 521,6,2026,Friday,2026-06
+2026-06-06,Entertainment,548,Expense,Credit Card,Transaction 522,6,2026,Saturday,2026-06
+2026-06-07,Healthcare,6119,Expense,UPI,Transaction 523,6,2026,Sunday,2026-06
+2026-06-08,Education,5443,Expense,UPI,Transaction 524,6,2026,Monday,2026-06
+2026-06-09,Transport,8133,Expense,Debit Card,Transaction 525,6,2026,Tuesday,2026-06
+2026-06-10,Bills,2620,Expense,Debit Card,Transaction 526,6,2026,Wednesday,2026-06
+2026-06-11,Shopping,3181,Expense,UPI,Transaction 527,6,2026,Thursday,2026-06
+2026-06-12,Food,1528,Expense,Debit Card,Transaction 528,6,2026,Friday,2026-06
+2026-06-13,Salary,4067,Income,UPI,Transaction 529,6,2026,Saturday,2026-06
+2026-06-14,Food,6545,Expense,UPI,Transaction 530,6,2026,Sunday,2026-06
+2026-06-15,Entertainment,9214,Expense,UPI,Transaction 531,6,2026,Monday,2026-06
+2026-06-16,Transport,2259,Expense,Cash,Transaction 532,6,2026,Tuesday,2026-06
+2026-06-17,Education,5232,Expense,Debit Card,Transaction 533,6,2026,Wednesday,2026-06
+2026-06-18,Entertainment,2647,Expense,Credit Card,Transaction 534,6,2026,Thursday,2026-06
+2026-06-19,Shopping,3079,Expense,Credit Card,Transaction 535,6,2026,Friday,2026-06
+2026-06-20,Entertainment,2749,Expense,Debit Card,Transaction 536,6,2026,Saturday,2026-06
+2026-06-21,Healthcare,8605,Expense,UPI,Transaction 537,6,2026,Sunday,2026-06
+2026-06-22,Food,3183,Expense,Credit Card,Transaction 538,6,2026,Monday,2026-06
+2026-06-23,Food,1137,Expense,Credit Card,Transaction 539,6,2026,Tuesday,2026-06
+2026-06-24,Salary,3589,Income,Debit Card,Transaction 540,6,2026,Wednesday,2026-06
+2026-06-25,Bills,7704,Expense,Credit Card,Transaction 541,6,2026,Thursday,2026-06
+2026-06-26,Bills,7644,Expense,UPI,Transaction 542,6,2026,Friday,2026-06
+2026-06-27,Education,2734,Expense,Debit Card,Transaction 543,6,2026,Saturday,2026-06
+2026-06-28,Shopping,4083,Expense,UPI,Transaction 544,6,2026,Sunday,2026-06
+2026-06-29,Healthcare,1878,Expense,Credit Card,Transaction 545,6,2026,Monday,2026-06
+2026-06-30,Transport,8002,Expense,Credit Card,Transaction 546,6,2026,Tuesday,2026-06
+2026-07-01,Salary,5210,Income,UPI,Transaction 547,7,2026,Wednesday,2026-07
+2026-07-02,Entertainment,5289,Expense,Cash,Transaction 548,7,2026,Thursday,2026-07
+2026-07-03,Education,7478,Expense,Credit Card,Transaction 549,7,2026,Friday,2026-07
+2026-07-04,Shopping,1224,Expense,Cash,Transaction 550,7,2026,Saturday,2026-07
+2026-07-05,Bills,797,Expense,Credit Card,Transaction 551,7,2026,Sunday,2026-07
+2026-07-06,Entertainment,2279,Expense,Cash,Transaction 552,7,2026,Monday,2026-07
+2026-07-07,Bills,9696,Expense,Cash,Transaction 553,7,2026,Tuesday,2026-07
+2026-07-08,Entertainment,5351,Expense,Cash,Transaction 554,7,2026,Wednesday,2026-07
+2026-07-09,Transport,9335,Expense,UPI,Transaction 555,7,2026,Thursday,2026-07
+2026-07-10,Shopping,2029,Expense,Cash,Transaction 556,7,2026,Friday,2026-07
+2026-07-11,Salary,1113,Income,Cash,Transaction 557,7,2026,Saturday,2026-07
+2026-07-12,Salary,326,Income,Cash,Transaction 558,7,2026,Sunday,2026-07
+2026-07-13,Entertainment,7421,Expense,Credit Card,Transaction 559,7,2026,Monday,2026-07
+2026-07-14,Healthcare,1928,Expense,Cash,Transaction 560,7,2026,Tuesday,2026-07
+2026-07-15,Education,8009,Expense,Credit Card,Transaction 561,7,2026,Wednesday,2026-07
+2026-07-16,Food,5688,Expense,Cash,Transaction 562,7,2026,Thursday,2026-07
+2026-07-17,Salary,2123,Income,Cash,Transaction 563,7,2026,Friday,2026-07
+2026-07-18,Salary,5066,Income,UPI,Transaction 564,7,2026,Saturday,2026-07
+2026-07-19,Healthcare,5991,Expense,Credit Card,Transaction 565,7,2026,Sunday,2026-07
+2026-07-20,Healthcare,1180,Expense,Cash,Transaction 566,7,2026,Monday,2026-07
+2026-07-21,Education,5136,Expense,Credit Card,Transaction 567,7,2026,Tuesday,2026-07
+2026-07-22,Food,2663,Expense,Credit Card,Transaction 568,7,2026,Wednesday,2026-07
+2026-07-23,Healthcare,3392,Expense,Debit Card,Transaction 569,7,2026,Thursday,2026-07
+2026-07-24,Entertainment,3686,Expense,UPI,Transaction 570,7,2026,Friday,2026-07
+2026-07-25,Entertainment,4531,Expense,UPI,Transaction 571,7,2026,Saturday,2026-07
+2026-07-26,Entertainment,6941,Expense,UPI,Transaction 572,7,2026,Sunday,2026-07
+2026-07-27,Food,6743,Expense,Debit Card,Transaction 573,7,2026,Monday,2026-07
+2026-07-28,Healthcare,4059,Expense,Debit Card,Transaction 574,7,2026,Tuesday,2026-07
+2026-07-29,Food,261,Expense,UPI,Transaction 575,7,2026,Wednesday,2026-07
+2026-07-30,Entertainment,693,Expense,Debit Card,Transaction 576,7,2026,Thursday,2026-07
+2026-07-31,Salary,3490,Income,Debit Card,Transaction 577,7,2026,Friday,2026-07
+2026-08-01,Education,6097,Expense,Debit Card,Transaction 578,8,2026,Saturday,2026-08
+2026-08-02,Healthcare,6454,Expense,UPI,Transaction 579,8,2026,Sunday,2026-08
+2026-08-03,Healthcare,763,Expense,UPI,Transaction 580,8,2026,Monday,2026-08
+2026-08-04,Bills,9424,Expense,UPI,Transaction 581,8,2026,Tuesday,2026-08
+2026-08-05,Bills,641,Expense,Debit Card,Transaction 582,8,2026,Wednesday,2026-08
+2026-08-06,Transport,5533,Expense,UPI,Transaction 583,8,2026,Thursday,2026-08
+2026-08-07,Shopping,5193,Expense,Debit Card,Transaction 584,8,2026,Friday,2026-08
+2026-08-08,Bills,967,Expense,Cash,Transaction 585,8,2026,Saturday,2026-08
+2026-08-09,Food,8723,Expense,Debit Card,Transaction 586,8,2026,Sunday,2026-08
+2026-08-10,Salary,5569,Income,Credit Card,Transaction 587,8,2026,Monday,2026-08
+2026-08-11,Salary,6356,Income,UPI,Transaction 588,8,2026,Tuesday,2026-08
+2026-08-12,Salary,9498,Income,UPI,Transaction 589,8,2026,Wednesday,2026-08
+2026-08-13,Salary,1269,Income,Credit Card,Transaction 590,8,2026,Thursday,2026-08
+2026-08-14,Salary,930,Income,Debit Card,Transaction 591,8,2026,Friday,2026-08
+2026-08-15,Bills,1751,Expense,Cash,Transaction 592,8,2026,Saturday,2026-08
+2026-08-16,Salary,1236,Income,Credit Card,Transaction 593,8,2026,Sunday,2026-08
+2026-08-17,Transport,2910,Expense,Credit Card,Transaction 594,8,2026,Monday,2026-08
+2026-08-18,Healthcare,8767,Expense,Debit Card,Transaction 595,8,2026,Tuesday,2026-08
+2026-08-19,Transport,9618,Expense,UPI,Transaction 596,8,2026,Wednesday,2026-08
+2026-08-20,Healthcare,1119,Expense,Debit Card,Transaction 597,8,2026,Thursday,2026-08
+2026-08-21,Salary,5337,Income,Credit Card,Transaction 598,8,2026,Friday,2026-08
+2026-08-22,Salary,1383,Income,Credit Card,Transaction 599,8,2026,Saturday,2026-08
+2026-08-23,Salary,759,Income,UPI,Transaction 600,8,2026,Sunday,2026-08
+2026-08-24,Salary,2110,Income,UPI,Transaction 601,8,2026,Monday,2026-08
+2026-08-25,Education,8690,Expense,UPI,Transaction 602,8,2026,Tuesday,2026-08
+2026-08-26,Salary,1833,Income,Debit Card,Transaction 603,8,2026,Wednesday,2026-08
+2026-08-27,Salary,2225,Income,UPI,Transaction 604,8,2026,Thursday,2026-08
+2026-08-28,Salary,2271,Income,Credit Card,Transaction 605,8,2026,Friday,2026-08
+2026-08-29,Education,8366,Expense,Credit Card,Transaction 606,8,2026,Saturday,2026-08
+2026-08-30,Healthcare,3571,Expense,Cash,Transaction 607,8,2026,Sunday,2026-08
+2026-08-31,Shopping,9128,Expense,Debit Card,Transaction 608,8,2026,Monday,2026-08
+2026-09-01,Bills,5724,Expense,Cash,Transaction 609,9,2026,Tuesday,2026-09
+2026-09-02,Food,8791,Expense,Credit Card,Transaction 610,9,2026,Wednesday,2026-09
+2026-09-03,Salary,8429,Income,Cash,Transaction 611,9,2026,Thursday,2026-09
+2026-09-04,Food,2197,Expense,Credit Card,Transaction 612,9,2026,Friday,2026-09
+2026-09-05,Entertainment,5168,Expense,Cash,Transaction 613,9,2026,Saturday,2026-09
+2026-09-06,Salary,6497,Income,UPI,Transaction 614,9,2026,Sunday,2026-09
+2026-09-07,Healthcare,2857,Expense,Cash,Transaction 615,9,2026,Monday,2026-09
+2026-09-08,Food,4020,Expense,UPI,Transaction 616,9,2026,Tuesday,2026-09
+2026-09-09,Salary,8286,Income,UPI,Transaction 617,9,2026,Wednesday,2026-09
+2026-09-10,Shopping,2000,Expense,Debit Card,Transaction 618,9,2026,Thursday,2026-09
+2026-09-11,Healthcare,2710,Expense,UPI,Transaction 619,9,2026,Friday,2026-09
+2026-09-12,Shopping,7000,Expense,UPI,Transaction 620,9,2026,Saturday,2026-09
+2026-09-13,Salary,1549,Income,Cash,Transaction 621,9,2026,Sunday,2026-09
+2026-09-14,Food,8838,Expense,Credit Card,Transaction 622,9,2026,Monday,2026-09
+2026-09-15,Food,5117,Expense,Debit Card,Transaction 623,9,2026,Tuesday,2026-09
+2026-09-16,Entertainment,8099,Expense,UPI,Transaction 624,9,2026,Wednesday,2026-09
+2026-09-17,Food,6152,Expense,Debit Card,Transaction 625,9,2026,Thursday,2026-09
+2026-09-18,Healthcare,2196,Expense,Cash,Transaction 626,9,2026,Friday,2026-09
+2026-09-19,Education,8995,Expense,UPI,Transaction 627,9,2026,Saturday,2026-09
+2026-09-20,Healthcare,6504,Expense,Cash,Transaction 628,9,2026,Sunday,2026-09
+2026-09-21,Salary,9917,Income,Debit Card,Transaction 629,9,2026,Monday,2026-09
+2026-09-22,Healthcare,3431,Expense,Cash,Transaction 630,9,2026,Tuesday,2026-09
+2026-09-23,Entertainment,7562,Expense,Debit Card,Transaction 631,9,2026,Wednesday,2026-09
+2026-09-24,Entertainment,5205,Expense,Cash,Transaction 632,9,2026,Thursday,2026-09
+2026-09-25,Food,3078,Expense,Debit Card,Transaction 633,9,2026,Friday,2026-09
+2026-09-26,Transport,2939,Expense,Credit Card,Transaction 634,9,2026,Saturday,2026-09
+2026-09-27,Salary,3484,Income,Cash,Transaction 635,9,2026,Sunday,2026-09
+2026-09-28,Transport,785,Expense,Cash,Transaction 636,9,2026,Monday,2026-09
+2026-09-29,Entertainment,7631,Expense,Credit Card,Transaction 637,9,2026,Tuesday,2026-09
+2026-09-30,Food,4383,Expense,Credit Card,Transaction 638,9,2026,Wednesday,2026-09
+2026-10-01,Transport,7836,Expense,Cash,Transaction 639,10,2026,Thursday,2026-10
+2026-10-02,Food,7810,Expense,Credit Card,Transaction 640,10,2026,Friday,2026-10
+2026-10-03,Salary,1719,Income,UPI,Transaction 641,10,2026,Saturday,2026-10
+2026-10-04,Food,6968,Expense,Debit Card,Transaction 642,10,2026,Sunday,2026-10
+2026-10-05,Food,1531,Expense,Debit Card,Transaction 643,10,2026,Monday,2026-10
+2026-10-06,Bills,9167,Expense,Debit Card,Transaction 644,10,2026,Tuesday,2026-10
+2026-10-07,Salary,4813,Income,UPI,Transaction 645,10,2026,Wednesday,2026-10
+2026-10-08,Healthcare,9657,Expense,Credit Card,Transaction 646,10,2026,Thursday,2026-10
+2026-10-09,Food,9535,Expense,Credit Card,Transaction 647,10,2026,Friday,2026-10
+2026-10-10,Bills,5098,Expense,Cash,Transaction 648,10,2026,Saturday,2026-10
+2026-10-11,Entertainment,262,Expense,Credit Card,Transaction 649,10,2026,Sunday,2026-10
+2026-10-12,Transport,2074,Expense,Cash,Transaction 650,10,2026,Monday,2026-10
+2026-10-13,Salary,3391,Income,UPI,Transaction 651,10,2026,Tuesday,2026-10
+2026-10-14,Healthcare,8561,Expense,Debit Card,Transaction 652,10,2026,Wednesday,2026-10
+2026-10-15,Education,731,Expense,Debit Card,Transaction 653,10,2026,Thursday,2026-10
+2026-10-16,Transport,1005,Expense,Debit Card,Transaction 654,10,2026,Friday,2026-10
+2026-10-17,Healthcare,2114,Expense,Credit Card,Transaction 655,10,2026,Saturday,2026-10
+2026-10-18,Salary,9933,Income,Cash,Transaction 656,10,2026,Sunday,2026-10
+2026-10-19,Education,7996,Expense,Cash,Transaction 657,10,2026,Monday,2026-10
+2026-10-20,Transport,304,Expense,UPI,Transaction 658,10,2026,Tuesday,2026-10
+2026-10-21,Healthcare,681,Expense,Credit Card,Transaction 659,10,2026,Wednesday,2026-10
+2026-10-22,Transport,5775,Expense,UPI,Transaction 660,10,2026,Thursday,2026-10
+2026-10-23,Transport,9132,Expense,Cash,Transaction 661,10,2026,Friday,2026-10
+2026-10-24,Education,5447,Expense,Cash,Transaction 662,10,2026,Saturday,2026-10
+2026-10-25,Transport,2743,Expense,Debit Card,Transaction 663,10,2026,Sunday,2026-10
+2026-10-26,Transport,8117,Expense,Credit Card,Transaction 664,10,2026,Monday,2026-10
+2026-10-27,Salary,2397,Income,Cash,Transaction 665,10,2026,Tuesday,2026-10
+2026-10-28,Salary,974,Income,Debit Card,Transaction 666,10,2026,Wednesday,2026-10
+2026-10-29,Education,5660,Expense,Credit Card,Transaction 667,10,2026,Thursday,2026-10
+2026-10-30,Salary,789,Income,UPI,Transaction 668,10,2026,Friday,2026-10
+2026-10-31,Salary,4100,Income,Credit Card,Transaction 669,10,2026,Saturday,2026-10
+2026-11-01,Entertainment,9714,Expense,Credit Card,Transaction 670,11,2026,Sunday,2026-11
+2026-11-02,Salary,771,Income,Cash,Transaction 671,11,2026,Monday,2026-11
+2026-11-03,Food,8027,Expense,Cash,Transaction 672,11,2026,Tuesday,2026-11
+2026-11-04,Salary,1271,Income,Credit Card,Transaction 673,11,2026,Wednesday,2026-11
+2026-11-05,Shopping,5691,Expense,Cash,Transaction 674,11,2026,Thursday,2026-11
+2026-11-06,Bills,9235,Expense,Cash,Transaction 675,11,2026,Friday,2026-11
+2026-11-07,Shopping,6442,Expense,Cash,Transaction 676,11,2026,Saturday,2026-11
+2026-11-08,Salary,1549,Income,Debit Card,Transaction 677,11,2026,Sunday,2026-11
+2026-11-09,Shopping,2639,Expense,Debit Card,Transaction 678,11,2026,Monday,2026-11
+2026-11-10,Healthcare,4059,Expense,Credit Card,Transaction 679,11,2026,Tuesday,2026-11
+2026-11-11,Food,6385,Expense,Cash,Transaction 680,11,2026,Wednesday,2026-11
+2026-11-12,Healthcare,5532,Expense,Debit Card,Transaction 681,11,2026,Thursday,2026-11
+2026-11-13,Food,4360,Expense,Credit Card,Transaction 682,11,2026,Friday,2026-11
+2026-11-14,Salary,2461,Income,Cash,Transaction 683,11,2026,Saturday,2026-11
+2026-11-15,Education,6264,Expense,UPI,Transaction 684,11,2026,Sunday,2026-11
+2026-11-16,Education,3770,Expense,Cash,Transaction 685,11,2026,Monday,2026-11
+2026-11-17,Food,1853,Expense,Cash,Transaction 686,11,2026,Tuesday,2026-11
+2026-11-18,Transport,8200,Expense,Debit Card,Transaction 687,11,2026,Wednesday,2026-11
+2026-11-19,Entertainment,2038,Expense,Credit Card,Transaction 688,11,2026,Thursday,2026-11
+2026-11-20,Transport,8662,Expense,Credit Card,Transaction 689,11,2026,Friday,2026-11
+2026-11-21,Salary,6076,Income,Debit Card,Transaction 690,11,2026,Saturday,2026-11
+2026-11-22,Entertainment,6688,Expense,Cash,Transaction 691,11,2026,Sunday,2026-11
+2026-11-23,Healthcare,8716,Expense,UPI,Transaction 692,11,2026,Monday,2026-11
+2026-11-24,Entertainment,6404,Expense,Cash,Transaction 693,11,2026,Tuesday,2026-11
+2026-11-25,Healthcare,7445,Expense,Cash,Transaction 694,11,2026,Wednesday,2026-11
+2026-11-26,Salary,7975,Income,UPI,Transaction 695,11,2026,Thursday,2026-11
+2026-11-27,Education,9186,Expense,Debit Card,Transaction 696,11,2026,Friday,2026-11
+2026-11-28,Shopping,6733,Expense,Credit Card,Transaction 697,11,2026,Saturday,2026-11
+2026-11-29,Education,697,Expense,Debit Card,Transaction 698,11,2026,Sunday,2026-11
+2026-11-30,Salary,3162,Income,Debit Card,Transaction 699,11,2026,Monday,2026-11
+2026-12-01,Education,2436,Expense,Cash,Transaction 700,12,2026,Tuesday,2026-12
+2026-12-02,Shopping,9979,Expense,Credit Card,Transaction 701,12,2026,Wednesday,2026-12
+2026-12-03,Salary,672,Income,Credit Card,Transaction 702,12,2026,Thursday,2026-12
+2026-12-04,Entertainment,7621,Expense,Debit Card,Transaction 703,12,2026,Friday,2026-12
+2026-12-05,Salary,6271,Income,UPI,Transaction 704,12,2026,Saturday,2026-12
+2026-12-06,Salary,7197,Income,Debit Card,Transaction 705,12,2026,Sunday,2026-12
+2026-12-07,Entertainment,2190,Expense,UPI,Transaction 706,12,2026,Monday,2026-12
+2026-12-08,Healthcare,6666,Expense,Credit Card,Transaction 707,12,2026,Tuesday,2026-12
+2026-12-09,Transport,4724,Expense,Debit Card,Transaction 708,12,2026,Wednesday,2026-12
+2026-12-10,Healthcare,1733,Expense,Cash,Transaction 709,12,2026,Thursday,2026-12
+2026-12-11,Transport,1617,Expense,Debit Card,Transaction 710,12,2026,Friday,2026-12
+2026-12-12,Education,3748,Expense,Credit Card,Transaction 711,12,2026,Saturday,2026-12
+2026-12-13,Shopping,1637,Expense,Cash,Transaction 712,12,2026,Sunday,2026-12
+2026-12-14,Education,3237,Expense,Cash,Transaction 713,12,2026,Monday,2026-12
+2026-12-15,Food,7085,Expense,UPI,Transaction 714,12,2026,Tuesday,2026-12
+2026-12-16,Entertainment,197,Expense,Cash,Transaction 715,12,2026,Wednesday,2026-12
+2026-12-17,Transport,3850,Expense,Cash,Transaction 716,12,2026,Thursday,2026-12
+2026-12-18,Healthcare,8635,Expense,Debit Card,Transaction 717,12,2026,Friday,2026-12
+2026-12-19,Shopping,8274,Expense,Credit Card,Transaction 718,12,2026,Saturday,2026-12
+2026-12-20,Salary,8203,Income,UPI,Transaction 719,12,2026,Sunday,2026-12
+2026-12-21,Transport,5513,Expense,Debit Card,Transaction 720,12,2026,Monday,2026-12
+2026-12-22,Healthcare,4766,Expense,Cash,Transaction 721,12,2026,Tuesday,2026-12
+2026-12-23,Salary,710,Income,Cash,Transaction 722,12,2026,Wednesday,2026-12
+2026-12-24,Salary,1827,Income,UPI,Transaction 723,12,2026,Thursday,2026-12
+2026-12-25,Entertainment,1954,Expense,Credit Card,Transaction 724,12,2026,Friday,2026-12
+2026-12-26,Education,5155,Expense,UPI,Transaction 725,12,2026,Saturday,2026-12
+2026-12-27,Entertainment,2424,Expense,Debit Card,Transaction 726,12,2026,Sunday,2026-12
+2026-12-28,Salary,9469,Income,UPI,Transaction 727,12,2026,Monday,2026-12
+2026-12-29,Bills,9383,Expense,Cash,Transaction 728,12,2026,Tuesday,2026-12
+2026-12-30,Food,5874,Expense,Debit Card,Transaction 729,12,2026,Wednesday,2026-12
+2026-12-31,Salary,6619,Income,Cash,Transaction 730,12,2026,Thursday,2026-12
+2027-01-01,Salary,1849,Income,Credit Card,Transaction 731,1,2027,Friday,2027-01
+2027-01-02,Bills,881,Expense,Cash,Transaction 732,1,2027,Saturday,2027-01
+2027-01-03,Shopping,7648,Expense,Cash,Transaction 733,1,2027,Sunday,2027-01
+2027-01-04,Transport,6923,Expense,UPI,Transaction 734,1,2027,Monday,2027-01
+2027-01-05,Shopping,2205,Expense,Cash,Transaction 735,1,2027,Tuesday,2027-01
+2027-01-06,Education,3967,Expense,Debit Card,Transaction 736,1,2027,Wednesday,2027-01
+2027-01-07,Healthcare,7293,Expense,Debit Card,Transaction 737,1,2027,Thursday,2027-01
+2027-01-08,Entertainment,5076,Expense,Credit Card,Transaction 738,1,2027,Friday,2027-01
+2027-01-09,Bills,2213,Expense,Debit Card,Transaction 739,1,2027,Saturday,2027-01
+2027-01-10,Bills,5979,Expense,UPI,Transaction 740,1,2027,Sunday,2027-01
+2027-01-11,Education,4070,Expense,Credit Card,Transaction 741,1,2027,Monday,2027-01
+2027-01-12,Bills,9359,Expense,Debit Card,Transaction 742,1,2027,Tuesday,2027-01
+2027-01-13,Education,7364,Expense,UPI,Transaction 743,1,2027,Wednesday,2027-01
+2027-01-14,Shopping,1677,Expense,Debit Card,Transaction 744,1,2027,Thursday,2027-01
+2027-01-15,Entertainment,9303,Expense,Debit Card,Transaction 745,1,2027,Friday,2027-01
+2027-01-16,Transport,2374,Expense,Cash,Transaction 746,1,2027,Saturday,2027-01
+2027-01-17,Healthcare,4969,Expense,Debit Card,Transaction 747,1,2027,Sunday,2027-01
+2027-01-18,Transport,6844,Expense,Debit Card,Transaction 748,1,2027,Monday,2027-01
+2027-01-19,Shopping,2526,Expense,UPI,Transaction 749,1,2027,Tuesday,2027-01
+2027-01-20,Healthcare,5646,Expense,UPI,Transaction 750,1,2027,Wednesday,2027-01
+2027-01-21,Salary,6952,Income,Cash,Transaction 751,1,2027,Thursday,2027-01
+2027-01-22,Bills,2651,Expense,Debit Card,Transaction 752,1,2027,Friday,2027-01
+2027-01-23,Food,6511,Expense,Cash,Transaction 753,1,2027,Saturday,2027-01
+2027-01-24,Shopping,107,Expense,Debit Card,Transaction 754,1,2027,Sunday,2027-01
+2027-01-25,Salary,8187,Income,Credit Card,Transaction 755,1,2027,Monday,2027-01
+2027-01-26,Shopping,2655,Expense,Credit Card,Transaction 756,1,2027,Tuesday,2027-01
+2027-01-27,Entertainment,575,Expense,Cash,Transaction 757,1,2027,Wednesday,2027-01
+2027-01-28,Transport,5516,Expense,Cash,Transaction 758,1,2027,Thursday,2027-01
+2027-01-29,Shopping,8776,Expense,Cash,Transaction 759,1,2027,Friday,2027-01
+2027-01-30,Shopping,7339,Expense,UPI,Transaction 760,1,2027,Saturday,2027-01
+2027-01-31,Salary,6810,Income,UPI,Transaction 761,1,2027,Sunday,2027-01
+2027-02-01,Bills,5100,Expense,UPI,Transaction 762,2,2027,Monday,2027-02
+2027-02-02,Bills,4754,Expense,Cash,Transaction 763,2,2027,Tuesday,2027-02
+2027-02-03,Healthcare,8178,Expense,Debit Card,Transaction 764,2,2027,Wednesday,2027-02
+2027-02-04,Salary,6163,Income,Credit Card,Transaction 765,2,2027,Thursday,2027-02
+2027-02-05,Education,2385,Expense,Cash,Transaction 766,2,2027,Friday,2027-02
+2027-02-06,Education,5323,Expense,UPI,Transaction 767,2,2027,Saturday,2027-02
+2027-02-07,Food,7071,Expense,UPI,Transaction 768,2,2027,Sunday,2027-02
+2027-02-08,Education,3625,Expense,Cash,Transaction 769,2,2027,Monday,2027-02
+2027-02-09,Entertainment,2922,Expense,Cash,Transaction 770,2,2027,Tuesday,2027-02
+2027-02-10,Salary,5043,Income,UPI,Transaction 771,2,2027,Wednesday,2027-02
+2027-02-11,Food,6630,Expense,Debit Card,Transaction 772,2,2027,Thursday,2027-02
+2027-02-12,Salary,358,Income,UPI,Transaction 773,2,2027,Friday,2027-02
+2027-02-13,Healthcare,382,Expense,UPI,Transaction 774,2,2027,Saturday,2027-02
+2027-02-14,Bills,1998,Expense,Cash,Transaction 775,2,2027,Sunday,2027-02
+2027-02-15,Salary,4235,Income,Debit Card,Transaction 776,2,2027,Monday,2027-02
+2027-02-16,Education,6729,Expense,UPI,Transaction 777,2,2027,Tuesday,2027-02
+2027-02-17,Transport,3300,Expense,UPI,Transaction 778,2,2027,Wednesday,2027-02
+2027-02-18,Bills,5210,Expense,Credit Card,Transaction 779,2,2027,Thursday,2027-02
+2027-02-19,Entertainment,7267,Expense,Cash,Transaction 780,2,2027,Friday,2027-02
+2027-02-20,Bills,712,Expense,Credit Card,Transaction 781,2,2027,Saturday,2027-02
+2027-02-21,Entertainment,787,Expense,Credit Card,Transaction 782,2,2027,Sunday,2027-02
+2027-02-22,Entertainment,3790,Expense,UPI,Transaction 783,2,2027,Monday,2027-02
+2027-02-23,Entertainment,8904,Expense,Cash,Transaction 784,2,2027,Tuesday,2027-02
+2027-02-24,Salary,2407,Income,Debit Card,Transaction 785,2,2027,Wednesday,2027-02
+2027-02-25,Healthcare,7233,Expense,UPI,Transaction 786,2,2027,Thursday,2027-02
+2027-02-26,Entertainment,6609,Expense,Debit Card,Transaction 787,2,2027,Friday,2027-02
+2027-02-27,Entertainment,6006,Expense,Debit Card,Transaction 788,2,2027,Saturday,2027-02
+2027-02-28,Transport,2691,Expense,Cash,Transaction 789,2,2027,Sunday,2027-02
+2027-03-01,Food,7283,Expense,Credit Card,Transaction 790,3,2027,Monday,2027-03
+2027-03-02,Salary,5348,Income,Cash,Transaction 791,3,2027,Tuesday,2027-03
+2027-03-03,Shopping,8866,Expense,Debit Card,Transaction 792,3,2027,Wednesday,2027-03
+2027-03-04,Food,5208,Expense,UPI,Transaction 793,3,2027,Thursday,2027-03
+2027-03-05,Entertainment,3704,Expense,Debit Card,Transaction 794,3,2027,Friday,2027-03
+2027-03-06,Salary,769,Income,UPI,Transaction 795,3,2027,Saturday,2027-03
+2027-03-07,Transport,4464,Expense,UPI,Transaction 796,3,2027,Sunday,2027-03
+2027-03-08,Bills,7429,Expense,Cash,Transaction 797,3,2027,Monday,2027-03
+2027-03-09,Transport,1383,Expense,Debit Card,Transaction 798,3,2027,Tuesday,2027-03
+2027-03-10,Entertainment,1023,Expense,Credit Card,Transaction 799,3,2027,Wednesday,2027-03
+2027-03-11,Transport,1225,Expense,Debit Card,Transaction 800,3,2027,Thursday,2027-03
+2027-03-12,Education,1629,Expense,Debit Card,Transaction 801,3,2027,Friday,2027-03
+2027-03-13,Salary,9886,Income,Credit Card,Transaction 802,3,2027,Saturday,2027-03
+2027-03-14,Transport,8538,Expense,Cash,Transaction 803,3,2027,Sunday,2027-03
+2027-03-15,Entertainment,3811,Expense,Debit Card,Transaction 804,3,2027,Monday,2027-03
+2027-03-16,Healthcare,8104,Expense,Debit Card,Transaction 805,3,2027,Tuesday,2027-03
+2027-03-17,Education,9852,Expense,UPI,Transaction 806,3,2027,Wednesday,2027-03
+2027-03-18,Transport,6374,Expense,Debit Card,Transaction 807,3,2027,Thursday,2027-03
+2027-03-19,Shopping,3964,Expense,Credit Card,Transaction 808,3,2027,Friday,2027-03
+2027-03-20,Shopping,7933,Expense,UPI,Transaction 809,3,2027,Saturday,2027-03
+2027-03-21,Salary,6888,Income,Cash,Transaction 810,3,2027,Sunday,2027-03
+2027-03-22,Transport,326,Expense,UPI,Transaction 811,3,2027,Monday,2027-03
+2027-03-23,Healthcare,364,Expense,Credit Card,Transaction 812,3,2027,Tuesday,2027-03
+2027-03-24,Salary,9687,Income,Credit Card,Transaction 813,3,2027,Wednesday,2027-03
+2027-03-25,Bills,745,Expense,UPI,Transaction 814,3,2027,Thursday,2027-03
+2027-03-26,Entertainment,7644,Expense,Cash,Transaction 815,3,2027,Friday,2027-03
+2027-03-27,Shopping,5669,Expense,UPI,Transaction 816,3,2027,Saturday,2027-03
+2027-03-28,Bills,3090,Expense,Cash,Transaction 817,3,2027,Sunday,2027-03
+2027-03-29,Transport,2604,Expense,UPI,Transaction 818,3,2027,Monday,2027-03
+2027-03-30,Salary,9446,Income,Credit Card,Transaction 819,3,2027,Tuesday,2027-03
+2027-03-31,Bills,687,Expense,Debit Card,Transaction 820,3,2027,Wednesday,2027-03
+2027-04-01,Education,9277,Expense,Debit Card,Transaction 821,4,2027,Thursday,2027-04
+2027-04-02,Salary,4179,Income,Cash,Transaction 822,4,2027,Friday,2027-04
+2027-04-03,Food,3448,Expense,Cash,Transaction 823,4,2027,Saturday,2027-04
+2027-04-04,Shopping,6399,Expense,Cash,Transaction 824,4,2027,Sunday,2027-04
+2027-04-05,Transport,3931,Expense,Credit Card,Transaction 825,4,2027,Monday,2027-04
+2027-04-06,Entertainment,9533,Expense,UPI,Transaction 826,4,2027,Tuesday,2027-04
+2027-04-07,Healthcare,8481,Expense,Credit Card,Transaction 827,4,2027,Wednesday,2027-04
+2027-04-08,Education,9272,Expense,Debit Card,Transaction 828,4,2027,Thursday,2027-04
+2027-04-09,Transport,9990,Expense,Cash,Transaction 829,4,2027,Friday,2027-04
+2027-04-10,Entertainment,1815,Expense,UPI,Transaction 830,4,2027,Saturday,2027-04
+2027-04-11,Healthcare,6550,Expense,Debit Card,Transaction 831,4,2027,Sunday,2027-04
+2027-04-12,Healthcare,5533,Expense,Debit Card,Transaction 832,4,2027,Monday,2027-04
+2027-04-13,Salary,1198,Income,Debit Card,Transaction 833,4,2027,Tuesday,2027-04
+2027-04-14,Salary,7196,Income,Credit Card,Transaction 834,4,2027,Wednesday,2027-04
+2027-04-15,Transport,2426,Expense,Cash,Transaction 835,4,2027,Thursday,2027-04
+2027-04-16,Education,9187,Expense,Debit Card,Transaction 836,4,2027,Friday,2027-04
+2027-04-17,Bills,6516,Expense,Cash,Transaction 837,4,2027,Saturday,2027-04
+2027-04-18,Bills,7080,Expense,Credit Card,Transaction 838,4,2027,Sunday,2027-04
+2027-04-19,Healthcare,6863,Expense,Debit Card,Transaction 839,4,2027,Monday,2027-04
+2027-04-20,Bills,1774,Expense,Credit Card,Transaction 840,4,2027,Tuesday,2027-04
+2027-04-21,Salary,8050,Income,Credit Card,Transaction 841,4,2027,Wednesday,2027-04
+2027-04-22,Food,9222,Expense,Cash,Transaction 842,4,2027,Thursday,2027-04
+2027-04-23,Salary,9015,Income,Debit Card,Transaction 843,4,2027,Friday,2027-04
+2027-04-24,Healthcare,6149,Expense,Credit Card,Transaction 844,4,2027,Saturday,2027-04
+2027-04-25,Salary,1189,Income,Debit Card,Transaction 845,4,2027,Sunday,2027-04
+2027-04-26,Healthcare,4678,Expense,Cash,Transaction 846,4,2027,Monday,2027-04
+2027-04-27,Salary,9227,Income,Credit Card,Transaction 847,4,2027,Tuesday,2027-04
+2027-04-28,Entertainment,255,Expense,Cash,Transaction 848,4,2027,Wednesday,2027-04
+2027-04-29,Bills,9362,Expense,Debit Card,Transaction 849,4,2027,Thursday,2027-04
+2027-04-30,Education,2058,Expense,Debit Card,Transaction 850,4,2027,Friday,2027-04
+2027-05-01,Salary,6444,Income,Cash,Transaction 851,5,2027,Saturday,2027-05
+2027-05-02,Healthcare,5879,Expense,UPI,Transaction 852,5,2027,Sunday,2027-05
+2027-05-03,Education,6244,Expense,Credit Card,Transaction 853,5,2027,Monday,2027-05
+2027-05-04,Food,5163,Expense,Debit Card,Transaction 854,5,2027,Tuesday,2027-05
+2027-05-05,Entertainment,3930,Expense,Debit Card,Transaction 855,5,2027,Wednesday,2027-05
+2027-05-06,Salary,9146,Income,Credit Card,Transaction 856,5,2027,Thursday,2027-05
+2027-05-07,Salary,8931,Income,Cash,Transaction 857,5,2027,Friday,2027-05
+2027-05-08,Transport,9894,Expense,Cash,Transaction 858,5,2027,Saturday,2027-05
+2027-05-09,Education,6759,Expense,Cash,Transaction 859,5,2027,Sunday,2027-05
+2027-05-10,Salary,541,Income,UPI,Transaction 860,5,2027,Monday,2027-05
+2027-05-11,Healthcare,6140,Expense,UPI,Transaction 861,5,2027,Tuesday,2027-05
+2027-05-12,Food,6025,Expense,Debit Card,Transaction 862,5,2027,Wednesday,2027-05
+2027-05-13,Shopping,7458,Expense,Cash,Transaction 863,5,2027,Thursday,2027-05
+2027-05-14,Food,4728,Expense,Credit Card,Transaction 864,5,2027,Friday,2027-05
+2027-05-15,Food,6470,Expense,Debit Card,Transaction 865,5,2027,Saturday,2027-05
+2027-05-16,Entertainment,9628,Expense,Credit Card,Transaction 866,5,2027,Sunday,2027-05
+2027-05-17,Salary,1048,Income,Debit Card,Transaction 867,5,2027,Monday,2027-05
+2027-05-18,Salary,8279,Income,UPI,Transaction 868,5,2027,Tuesday,2027-05
+2027-05-19,Transport,6215,Expense,Debit Card,Transaction 869,5,2027,Wednesday,2027-05
+2027-05-20,Shopping,559,Expense,UPI,Transaction 870,5,2027,Thursday,2027-05
+2027-05-21,Bills,7668,Expense,Debit Card,Transaction 871,5,2027,Friday,2027-05
+2027-05-22,Bills,4746,Expense,Cash,Transaction 872,5,2027,Saturday,2027-05
+2027-05-23,Education,492,Expense,Credit Card,Transaction 873,5,2027,Sunday,2027-05
+2027-05-24,Food,1887,Expense,Cash,Transaction 874,5,2027,Monday,2027-05
+2027-05-25,Salary,7474,Income,Debit Card,Transaction 875,5,2027,Tuesday,2027-05
+2027-05-26,Salary,1238,Income,Debit Card,Transaction 876,5,2027,Wednesday,2027-05
+2027-05-27,Entertainment,4841,Expense,Debit Card,Transaction 877,5,2027,Thursday,2027-05
+2027-05-28,Entertainment,7518,Expense,UPI,Transaction 878,5,2027,Friday,2027-05
+2027-05-29,Salary,6462,Income,Credit Card,Transaction 879,5,2027,Saturday,2027-05
+2027-05-30,Bills,2554,Expense,Credit Card,Transaction 880,5,2027,Sunday,2027-05
+2027-05-31,Education,9758,Expense,Debit Card,Transaction 881,5,2027,Monday,2027-05
+2027-06-01,Education,3774,Expense,Debit Card,Transaction 882,6,2027,Tuesday,2027-06
+2027-06-02,Salary,1477,Income,UPI,Transaction 883,6,2027,Wednesday,2027-06
+2027-06-03,Salary,6801,Income,Cash,Transaction 884,6,2027,Thursday,2027-06
+2027-06-04,Education,2697,Expense,Cash,Transaction 885,6,2027,Friday,2027-06
+2027-06-05,Salary,241,Income,Credit Card,Transaction 886,6,2027,Saturday,2027-06
+2027-06-06,Shopping,2759,Expense,UPI,Transaction 887,6,2027,Sunday,2027-06
+2027-06-07,Transport,4696,Expense,Debit Card,Transaction 888,6,2027,Monday,2027-06
+2027-06-08,Salary,9131,Income,Credit Card,Transaction 889,6,2027,Tuesday,2027-06
+2027-06-09,Shopping,5761,Expense,UPI,Transaction 890,6,2027,Wednesday,2027-06
+2027-06-10,Healthcare,6242,Expense,Cash,Transaction 891,6,2027,Thursday,2027-06
+2027-06-11,Healthcare,5726,Expense,UPI,Transaction 892,6,2027,Friday,2027-06
+2027-06-12,Transport,8887,Expense,Cash,Transaction 893,6,2027,Saturday,2027-06
+2027-06-13,Bills,8572,Expense,UPI,Transaction 894,6,2027,Sunday,2027-06
+2027-06-14,Transport,523,Expense,Credit Card,Transaction 895,6,2027,Monday,2027-06
+2027-06-15,Entertainment,7099,Expense,Cash,Transaction 896,6,2027,Tuesday,2027-06
+2027-06-16,Healthcare,4349,Expense,Credit Card,Transaction 897,6,2027,Wednesday,2027-06
+2027-06-17,Food,1850,Expense,Credit Card,Transaction 898,6,2027,Thursday,2027-06
+2027-06-18,Salary,4857,Income,Cash,Transaction 899,6,2027,Friday,2027-06
+2027-06-19,Salary,2067,Income,Cash,Transaction 900,6,2027,Saturday,2027-06
+2027-06-20,Food,4188,Expense,Debit Card,Transaction 901,6,2027,Sunday,2027-06
+2027-06-21,Salary,4278,Income,Debit Card,Transaction 902,6,2027,Monday,2027-06
+2027-06-22,Salary,7889,Income,Debit Card,Transaction 903,6,2027,Tuesday,2027-06
+2027-06-23,Bills,3046,Expense,Credit Card,Transaction 904,6,2027,Wednesday,2027-06
+2027-06-24,Entertainment,9741,Expense,Credit Card,Transaction 905,6,2027,Thursday,2027-06
+2027-06-25,Shopping,5494,Expense,Debit Card,Transaction 906,6,2027,Friday,2027-06
+2027-06-26,Entertainment,7980,Expense,Credit Card,Transaction 907,6,2027,Saturday,2027-06
+2027-06-27,Food,5175,Expense,Credit Card,Transaction 908,6,2027,Sunday,2027-06
+2027-06-28,Food,7330,Expense,Cash,Transaction 909,6,2027,Monday,2027-06
+2027-06-29,Healthcare,1631,Expense,Cash,Transaction 910,6,2027,Tuesday,2027-06
+2027-06-30,Entertainment,3090,Expense,Credit Card,Transaction 911,6,2027,Wednesday,2027-06
+2027-07-01,Entertainment,7255,Expense,Debit Card,Transaction 912,7,2027,Thursday,2027-07
+2027-07-02,Food,4593,Expense,UPI,Transaction 913,7,2027,Friday,2027-07
+2027-07-03,Shopping,9435,Expense,Debit Card,Transaction 914,7,2027,Saturday,2027-07
+2027-07-04,Bills,1033,Expense,UPI,Transaction 915,7,2027,Sunday,2027-07
+2027-07-05,Education,1560,Expense,Debit Card,Transaction 916,7,2027,Monday,2027-07
+2027-07-06,Bills,2823,Expense,Cash,Transaction 917,7,2027,Tuesday,2027-07
+2027-07-07,Entertainment,385,Expense,Credit Card,Transaction 918,7,2027,Wednesday,2027-07
+2027-07-08,Bills,364,Expense,Credit Card,Transaction 919,7,2027,Thursday,2027-07
+2027-07-09,Salary,6916,Income,Cash,Transaction 920,7,2027,Friday,2027-07
+2027-07-10,Food,1862,Expense,UPI,Transaction 921,7,2027,Saturday,2027-07
+2027-07-11,Food,140,Expense,UPI,Transaction 922,7,2027,Sunday,2027-07
+2027-07-12,Entertainment,5927,Expense,UPI,Transaction 923,7,2027,Monday,2027-07
+2027-07-13,Entertainment,8359,Expense,Cash,Transaction 924,7,2027,Tuesday,2027-07
+2027-07-14,Education,1087,Expense,UPI,Transaction 925,7,2027,Wednesday,2027-07
+2027-07-15,Salary,7904,Income,Cash,Transaction 926,7,2027,Thursday,2027-07
+2027-07-16,Education,7889,Expense,Debit Card,Transaction 927,7,2027,Friday,2027-07
+2027-07-17,Healthcare,5817,Expense,Debit Card,Transaction 928,7,2027,Saturday,2027-07
+2027-07-18,Entertainment,3298,Expense,Cash,Transaction 929,7,2027,Sunday,2027-07
+2027-07-19,Shopping,5474,Expense,Credit Card,Transaction 930,7,2027,Monday,2027-07
+2027-07-20,Salary,4890,Income,Debit Card,Transaction 931,7,2027,Tuesday,2027-07
+2027-07-21,Bills,7283,Expense,UPI,Transaction 932,7,2027,Wednesday,2027-07
+2027-07-22,Entertainment,2624,Expense,Cash,Transaction 933,7,2027,Thursday,2027-07
+2027-07-23,Transport,9377,Expense,UPI,Transaction 934,7,2027,Friday,2027-07
+2027-07-24,Salary,2579,Income,UPI,Transaction 935,7,2027,Saturday,2027-07
+2027-07-25,Healthcare,9985,Expense,Credit Card,Transaction 936,7,2027,Sunday,2027-07
+2027-07-26,Salary,5254,Income,UPI,Transaction 937,7,2027,Monday,2027-07
+2027-07-27,Transport,878,Expense,Credit Card,Transaction 938,7,2027,Tuesday,2027-07
+2027-07-28,Salary,9877,Income,Debit Card,Transaction 939,7,2027,Wednesday,2027-07
+2027-07-29,Food,1592,Expense,Cash,Transaction 940,7,2027,Thursday,2027-07
+2027-07-30,Education,760,Expense,UPI,Transaction 941,7,2027,Friday,2027-07
+2027-07-31,Bills,1448,Expense,Cash,Transaction 942,7,2027,Saturday,2027-07
+2027-08-01,Entertainment,9591,Expense,UPI,Transaction 943,8,2027,Sunday,2027-08
+2027-08-02,Transport,7951,Expense,Cash,Transaction 944,8,2027,Monday,2027-08
+2027-08-03,Bills,7256,Expense,UPI,Transaction 945,8,2027,Tuesday,2027-08
+2027-08-04,Salary,2144,Income,UPI,Transaction 946,8,2027,Wednesday,2027-08
+2027-08-05,Salary,7468,Income,UPI,Transaction 947,8,2027,Thursday,2027-08
+2027-08-06,Food,3616,Expense,UPI,Transaction 948,8,2027,Friday,2027-08
+2027-08-07,Education,9350,Expense,UPI,Transaction 949,8,2027,Saturday,2027-08
+2027-08-08,Shopping,9268,Expense,UPI,Transaction 950,8,2027,Sunday,2027-08
+2027-08-09,Healthcare,4677,Expense,UPI,Transaction 951,8,2027,Monday,2027-08
+2027-08-10,Bills,827,Expense,UPI,Transaction 952,8,2027,Tuesday,2027-08
+2027-08-11,Salary,7568,Income,UPI,Transaction 953,8,2027,Wednesday,2027-08
+2027-08-12,Bills,442,Expense,Cash,Transaction 954,8,2027,Thursday,2027-08
+2027-08-13,Shopping,1547,Expense,Credit Card,Transaction 955,8,2027,Friday,2027-08
+2027-08-14,Bills,6681,Expense,UPI,Transaction 956,8,2027,Saturday,2027-08
+2027-08-15,Food,6417,Expense,Credit Card,Transaction 957,8,2027,Sunday,2027-08
+2027-08-16,Salary,626,Income,UPI,Transaction 958,8,2027,Monday,2027-08
+2027-08-17,Salary,6848,Income,UPI,Transaction 959,8,2027,Tuesday,2027-08
+2027-08-18,Food,505,Expense,Cash,Transaction 960,8,2027,Wednesday,2027-08
+2027-08-19,Salary,8086,Income,Debit Card,Transaction 961,8,2027,Thursday,2027-08
+2027-08-20,Shopping,9865,Expense,Debit Card,Transaction 962,8,2027,Friday,2027-08
+2027-08-21,Healthcare,3840,Expense,Cash,Transaction 963,8,2027,Saturday,2027-08
+2027-08-22,Entertainment,1946,Expense,Credit Card,Transaction 964,8,2027,Sunday,2027-08
+2027-08-23,Transport,1578,Expense,Debit Card,Transaction 965,8,2027,Monday,2027-08
+2027-08-24,Entertainment,871,Expense,Cash,Transaction 966,8,2027,Tuesday,2027-08
+2027-08-25,Bills,5625,Expense,Cash,Transaction 967,8,2027,Wednesday,2027-08
+2027-08-26,Transport,8870,Expense,Debit Card,Transaction 968,8,2027,Thursday,2027-08
+2027-08-27,Shopping,293,Expense,Credit Card,Transaction 969,8,2027,Friday,2027-08
+2027-08-28,Shopping,2107,Expense,Cash,Transaction 970,8,2027,Saturday,2027-08
+2027-08-29,Healthcare,1285,Expense,UPI,Transaction 971,8,2027,Sunday,2027-08
+2027-08-30,Transport,2494,Expense,Credit Card,Transaction 972,8,2027,Monday,2027-08
+2027-08-31,Food,9402,Expense,Credit Card,Transaction 973,8,2027,Tuesday,2027-08
+2027-09-01,Transport,4105,Expense,Debit Card,Transaction 974,9,2027,Wednesday,2027-09
+2027-09-02,Salary,7529,Income,Debit Card,Transaction 975,9,2027,Thursday,2027-09
+2027-09-03,Bills,2361,Expense,UPI,Transaction 976,9,2027,Friday,2027-09
+2027-09-04,Food,3836,Expense,Cash,Transaction 977,9,2027,Saturday,2027-09
+2027-09-05,Salary,6816,Income,Debit Card,Transaction 978,9,2027,Sunday,2027-09
+2027-09-06,Education,4975,Expense,Debit Card,Transaction 979,9,2027,Monday,2027-09
+2027-09-07,Education,9021,Expense,Credit Card,Transaction 980,9,2027,Tuesday,2027-09
+2027-09-08,Education,4478,Expense,Debit Card,Transaction 981,9,2027,Wednesday,2027-09
+2027-09-09,Shopping,7915,Expense,Debit Card,Transaction 982,9,2027,Thursday,2027-09
+2027-09-10,Salary,3551,Income,Debit Card,Transaction 983,9,2027,Friday,2027-09
+2027-09-11,Salary,7716,Income,Debit Card,Transaction 984,9,2027,Saturday,2027-09
+2027-09-12,Transport,9936,Expense,Credit Card,Transaction 985,9,2027,Sunday,2027-09
+2027-09-13,Education,2900,Expense,UPI,Transaction 986,9,2027,Monday,2027-09
+2027-09-14,Entertainment,8433,Expense,UPI,Transaction 987,9,2027,Tuesday,2027-09
+2027-09-15,Healthcare,5510,Expense,Cash,Transaction 988,9,2027,Wednesday,2027-09
+2027-09-16,Entertainment,1555,Expense,Debit Card,Transaction 989,9,2027,Thursday,2027-09
+2027-09-17,Education,6992,Expense,Credit Card,Transaction 990,9,2027,Friday,2027-09
+2027-09-18,Healthcare,5908,Expense,Cash,Transaction 991,9,2027,Saturday,2027-09
+2027-09-19,Bills,6896,Expense,Cash,Transaction 992,9,2027,Sunday,2027-09
+2027-09-20,Entertainment,4896,Expense,UPI,Transaction 993,9,2027,Monday,2027-09
+2027-09-21,Transport,5193,Expense,Credit Card,Transaction 994,9,2027,Tuesday,2027-09
+2027-09-22,Transport,1425,Expense,Credit Card,Transaction 995,9,2027,Wednesday,2027-09
+2027-09-23,Salary,5076,Income,Credit Card,Transaction 996,9,2027,Thursday,2027-09
+2027-09-24,Entertainment,9505,Expense,UPI,Transaction 997,9,2027,Friday,2027-09
+2027-09-25,Salary,1259,Income,UPI,Transaction 998,9,2027,Saturday,2027-09
+2027-09-26,Education,4750,Expense,UPI,Transaction 999,9,2027,Sunday,2027-09
+2027-09-27,Transport,5087,Expense,UPI,Transaction 1000,9,2027,Monday,2027-09

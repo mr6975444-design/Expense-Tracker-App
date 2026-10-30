@@ -115,3 +115,7 @@ Meghana
 ## ⚠️ Disclaimer
 
 This project uses synthetic sample data for educational and demonstration purposes.
+
+## Dashboard Preview
+
+![Expense Tracker Dashboard](screenshots/dashboard.png)

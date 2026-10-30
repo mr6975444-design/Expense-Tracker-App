@@ -1,6 +1,10 @@
 
 # 💰 Personal Expense Tracker Using Data Science
 
+## Live Demo
+
+[Click here to open the Expense Tracker Dashboard](https://expense-tracker-app-33atwxczpbysbjpspi5ml5.streamlit.app/)
+
 ## 📌 Project Overview
 
 The Personal Expense Tracker is a Python-based data science project that analyzes income and expenses using data analysis and visualization techniques.
